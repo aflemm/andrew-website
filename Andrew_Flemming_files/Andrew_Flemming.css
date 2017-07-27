@@ -28,6 +28,29 @@
     padding: 4px;
 }
 .paragraph_style_1 {
+    color: rgb(97, 97, 97);
+    font-family: 'AvenirNext-Medium', 'Avenir Next';
+    font-size: 15px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 24px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-shadow: 0px 1px 0px rgb(255, 255, 255);
+    text-transform: none;
+}
+.paragraph_style_2 {
     color: rgb(44, 44, 44);
     font-family: 'AvenirNext-Medium', 'Avenir Next';
     font-size: 15px;
@@ -50,7 +73,7 @@
     text-shadow: 0px 1px 0px rgb(255, 255, 255);
     text-transform: none;
 }
-.paragraph_style_2 {
+.paragraph_style_3 {
     color: rgb(88, 77, 77);
     font-family: 'AvenirNext-Medium', 'Avenir Next';
     font-size: 15px;
@@ -81,8 +104,18 @@
 .style_3.vertical-align-middle-innerbox {
     padding: 4px;
 }
-.paragraph_style_3 {
-    color: rgb(44, 44, 44);
+.style_External_216_30.vertical-align-middle-middlebox {
+    height: 30px;
+    position: relative;
+    width: 216px;
+}
+.style_External_98_28.vertical-align-middle-middlebox {
+    height: 28px;
+    position: relative;
+    width: 98px;
+}
+.paragraph_style_4 {
+    color: rgb(98, 93, 92);
     font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 15px;
     font-stretch: normal;
@@ -91,6 +124,29 @@
     font-weight: 700;
     letter-spacing: 0;
     line-height: 22px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0px;
+    text-shadow: 0px 1px 0px rgb(255, 255, 255);
+    text-transform: none;
+}
+.paragraph_style_5 {
+    color: rgb(44, 44, 44);
+    font-family: 'Futura-Bold', 'Futura';
+    font-size: 15px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 29px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -120,9 +176,19 @@
     background: transparent url(backgroundimage_2_1.png) no-repeat scroll center center;
     opacity: 1.00;
 }
+.style_External_160_30.vertical-align-middle-middlebox {
+    height: 30px;
+    position: relative;
+    width: 160px;
+}
 .style_SkipStroke_4 {
     background: transparent;
     opacity: 1.00;
+}
+.style_External_100_35.vertical-align-middle-middlebox {
+    height: 35px;
+    position: relative;
+    width: 100px;
 }
 .style_SkipStroke_5 {
     background: transparent url(backgroundimage_3_1.png) no-repeat scroll center center;
@@ -131,11 +197,6 @@
 .style_SkipStroke_6 {
     background: transparent url(backgroundimage_4_1.png) no-repeat scroll center center;
     opacity: 1.00;
-}
-.style_External_100_28.vertical-align-middle-middlebox {
-    height: 28px;
-    position: relative;
-    width: 100px;
 }
 .style_SkipStroke_7 {
     background: transparent;
@@ -150,8 +211,6 @@
     height: 54px;
     position: relative;
     width: 499px;
-}
-.style_SkipStrokeSkipFillSkipOpacity {
 }
 .Body {
     color: rgb(88, 77, 77);
@@ -224,20 +283,39 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_100_28 {
+.graphic_textbox_layout_style_default_External_160_30 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_396_55 {
     position: relative;
 }
+.graphic_textbox_layout_style_default_External_216_30 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_100_35 {
+    position: relative;
+}
 .graphic_textbox_layout_style_default_External_65_30 {
     position: relative;
 }
-.graphic_textbox_style_default_SkipStrokeSkipFillSkipOpacity {
+.graphic_textbox_layout_style_default_External_98_28 {
+    position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
     background: transparent;
     opacity: 1.00;
+}
+a {
+    color: rgb(88, 77, 77);
+    text-decoration: underline;
+}
+a:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: underline;
+}
+a:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
 }
 .bumper {
     font-size: 1px;
