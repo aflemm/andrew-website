@@ -216,18 +216,6 @@ nav .caret{
 	margin-top:10px;
 	margin-bottom:40px;
 }
-img.mg-sm,img.mg-md,img.mg-lg{
-	margin-top: 0;
-}
-img.mg-sm{
-	margin-bottom:10px;
-}
-img.mg-md{
-	margin-bottom:30px;
-}
-img.mg-lg{
-	margin-bottom:50px;
-}
 
 /* = Buttons
 -------------------------------------------------------------- */
@@ -348,6 +336,13 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .blocs-mobile-signup-text{
 	font-size:33px;
+}
+.statement-bloc-text{
+	line-height:38px;
+	font-style:italic;
+	font-size:28px;
+	text-align:center;
+	font-weight:lighter;
 }
 
 /* = Colour
