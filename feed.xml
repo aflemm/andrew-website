@@ -3,7 +3,7 @@
     <title>Me</title>
     <link href="https://andrewflemming.net/feed.xml" rel="self" />
     <link href="https://andrewflemming.net" />
-    <updated>2019-06-21T11:23:26-04:00</updated>
+    <updated>2019-06-21T11:29:04-04:00</updated>
     <author>
         <name>Andrew</name>
     </author>
@@ -17,15 +17,16 @@
         <link href="https://andrewflemming.net/smartbroom/"/>
         <id>https://andrewflemming.net/smartbroom/</id>
 
-        <updated>2019-06-21T11:07:54-04:00</updated>
+        <updated>2019-06-21T11:28:56-04:00</updated>
             <summary>
                 <![CDATA[
-                    Check out the SmartBroom
+                    The SmartBroom, first launched in 2013, is a powerful tool for curlers interested in improving the effectiveness of their sweeping. It is used by national organizations and curling clubs around the world. Learn more about the SmartBroom
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <a href="http://smartbroom.ca" target="_blank" rel="noopener noreferrer">Check out the SmartBroom</a>
+                <p>The SmartBroom, first launched in 2013, is a powerful tool for curlers interested in improving the effectiveness of their sweeping. It is used by national organizations and curling clubs around the world.</p>
+<p><a href="http://smartbroom.ca" target="_blank" rel="noopener noreferrer">Learn more about the SmartBroom</a></p>
             ]]>
         </content>
     </entry>
