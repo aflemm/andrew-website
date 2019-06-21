@@ -1,38 +1,78 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <id>urn:iweb:5A336E8E-CD95-407C-82E9-250E4DD07B71</id>
- <title>Page list Atom feed</title>
- <updated>2015-07-06T20:22:15-04:00</updated>
- <link rel="self" href="feed.xml"/>
- <generator>iWeb</generator>
- <author>
-  <name>iWeb</name>
- </author>
- <entry>
-  <id>urn:iweb:C06DF1DD-F6CB-40B9-8500-63C1CBD38BCD</id>
-  <title>Andrew Flemming</title>
-  <title xmlns="urn:iweb:">Andrew Flemming</title>
-  <in-navbar xmlns="urn:iweb:">C06DF1DD-F6CB-40B9-8500-63C1CBD38BCD</in-navbar>
-  <link rel="alternate" href="Andrew_Flemming.html"/>
-  <updated>2015-07-06T20:22:15.001-04:00</updated>
-  <content>Andrew Flemming</content>
- </entry>
- <entry>
-  <id>urn:iweb:FB69D9C0-B327-4EAC-9578-C0DF13336A1A</id>
-  <title>Check</title>
-  <title xmlns="urn:iweb:">Check</title>
-  <in-navbar xmlns="urn:iweb:">FB69D9C0-B327-4EAC-9578-C0DF13336A1A</in-navbar>
-  <link rel="alternate" href="Check.html"/>
-  <updated>2015-07-06T20:22:15.002-04:00</updated>
-  <content>Check</content>
- </entry>
- <entry>
-  <id>urn:iweb:F864C8BA-49D6-48B6-A1E4-305182DFF8C9</id>
-  <title>Photos</title>
-  <title xmlns="urn:iweb:">Photos</title>
-  <in-navbar xmlns="urn:iweb:">F864C8BA-49D6-48B6-A1E4-305182DFF8C9</in-navbar>
-  <link rel="alternate" href="Photos.html"/>
-  <updated>2015-07-06T20:22:15.003-04:00</updated>
-  <content>Photos</content>
- </entry>
+    <title>Me</title>
+    <link href="https://andrewflemming.net/feed.xml" rel="self" />
+    <link href="https://andrewflemming.net" />
+    <updated>2019-06-21T11:14:24-04:00</updated>
+    <author>
+        <name>Andrew</name>
+    </author>
+    <id>https://andrewflemming.net</id>
+
+    <entry>
+        <title>SmartBroom</title>
+        <author>
+            <name>Andrew</name>
+        </author>
+        <link href="https://andrewflemming.net/smartbroom/"/>
+        <id>https://andrewflemming.net/smartbroom/</id>
+
+        <updated>2019-06-21T11:07:54-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Check out the SmartBroom
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <a href="http://smartbroom.ca" target="_blank" rel="noopener noreferrer">Check out the SmartBroom</a>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>CurlBook</title>
+        <author>
+            <name>Andrew</name>
+        </author>
+        <link href="https://andrewflemming.net/curlbook/"/>
+        <id>https://andrewflemming.net/curlbook/</id>
+
+        <updated>2019-06-21T11:14:20-04:00</updated>
+            <summary>
+                <![CDATA[
+                    CurlBook was the first tool for curling coaches developed for iOS, first launching in 2009. Learn more about CurlBook
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>CurlBook was the first tool for curling coaches developed for iOS, first launching in 2009.</p>
+<p><a href="http://curlbook.com">Learn more about CurlBook</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Photography</title>
+        <author>
+            <name>Andrew</name>
+        </author>
+        <link href="https://andrewflemming.net/photography/"/>
+        <id>https://andrewflemming.net/photography/</id>
+
+        <updated>2019-06-21T11:04:51-04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery"   >
+<figure class="gallery__item"><a href="https://andrewflemming.net/media/posts/2/gallery/DSC02158.jpeg" ><img src="https://andrewflemming.net/media/posts/2/gallery/DSC02158-thumbnail.jpeg" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://andrewflemming.net/media/posts/2/gallery/DSC03305.jpeg" ><img src="https://andrewflemming.net/media/posts/2/gallery/DSC03305-thumbnail.jpeg" alt="" width="720" height="478"></a></figure>
+<figure class="gallery__item"><a href="https://andrewflemming.net/media/posts/2/gallery/DSC08758.jpg" ><img src="https://andrewflemming.net/media/posts/2/gallery/DSC08758-thumbnail.jpg" alt="" width="720" height="1078"></a></figure>
+<figure class="gallery__item"><a href="https://andrewflemming.net/media/posts/2/gallery/IMG_1067.jpeg" ><img src="https://andrewflemming.net/media/posts/2/gallery/IMG_1067-thumbnail.jpeg" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://andrewflemming.net/media/posts/2/gallery/IMG_1327.jpeg" ><img src="https://andrewflemming.net/media/posts/2/gallery/IMG_1327-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://andrewflemming.net/media/posts/2/gallery/IMG_2098.jpeg" ><img src="https://andrewflemming.net/media/posts/2/gallery/IMG_2098-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://andrewflemming.net/media/posts/2/gallery/IMG_2165.jpeg" ><img src="https://andrewflemming.net/media/posts/2/gallery/IMG_2165-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://andrewflemming.net/media/posts/2/gallery/Tree-Veins.jpg" ><img src="https://andrewflemming.net/media/posts/2/gallery/Tree-Veins-thumbnail.jpg" alt="" width="720" height="481"></a></figure>
+</div>
+            ]]>
+        </content>
+    </entry>
 </feed>
