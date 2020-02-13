@@ -3,7 +3,7 @@
     <title>Me</title>
     <link href="https://andrewflemming.net/feed.xml" rel="self" />
     <link href="https://andrewflemming.net" />
-    <updated>2020-02-13T08:06:00-05:00</updated>
+    <updated>2020-02-13T08:10:24-05:00</updated>
     <author>
         <name>Andrew</name>
     </author>
@@ -61,15 +61,15 @@
         <link href="https://andrewflemming.net/photography/"/>
         <id>https://andrewflemming.net/photography/</id>
 
-        <updated>2019-06-21T11:46:22-04:00</updated>
+        <updated>2020-02-13T08:10:19-05:00</updated>
             <summary>
                 <![CDATA[
-                    Here are a few of my favourite shotsDongguan, ChinaLisbon, PortugalAlgarve, PortugalFrancePortugalChicagoChicagoWaterloo
+                    Here are a few of my favourite shots from around the worldDongguan, ChinaLisbon, PortugalAlgarve, PortugalFrancePortugalChicagoChicagoWaterlooMadeira
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Here are a few of my favourite shots</p>
+                <p>Here are a few of my favourite shots from around the world</p>
 <div class="gallery"   >
 <figure class="gallery__item"><a href="https://andrewflemming.net/media/posts/2/gallery/DSC03305.jpeg" ><img src="https://andrewflemming.net/media/posts/2/gallery/DSC03305-thumbnail.jpeg" alt="" width="720" height="478"></a>
 <figcaption class="gallery-description">Dongguan, China</figcaption>
@@ -94,6 +94,9 @@
 </figure>
 <figure class="gallery__item"><a href="https://andrewflemming.net/media/posts/2/gallery/Tree-Veins.jpg" ><img src="https://andrewflemming.net/media/posts/2/gallery/Tree-Veins-thumbnail.jpg" alt="" width="720" height="481"></a>
 <figcaption class="gallery-description">Waterloo</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://andrewflemming.net/media/posts/2/gallery/Little-house.jpeg" ><img src="https://andrewflemming.net/media/posts/2/gallery/Little-house-thumbnail.jpeg" alt="" width="720" height="481"></a>
+<figcaption class="gallery-description">Madeira</figcaption>
 </figure>
 </div>
             ]]>
