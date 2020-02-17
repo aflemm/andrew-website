@@ -3,12 +3,43 @@
     <title>Me</title>
     <link href="https://andrewflemming.net/feed.xml" rel="self" />
     <link href="https://andrewflemming.net" />
-    <updated>2020-02-17T10:59:02-05:00</updated>
+    <updated>2020-02-17T11:14:02-05:00</updated>
     <author>
         <name>Andrew</name>
     </author>
     <id>https://andrewflemming.net</id>
 
+    <entry>
+        <title>Curling</title>
+        <author>
+            <name>Andrew</name>
+        </author>
+        <link href="https://andrewflemming.net/curling/"/>
+        <id>https://andrewflemming.net/curling/</id>
+
+        <updated>2020-02-17T11:13:36-05:00</updated>
+            <summary>
+                <![CDATA[
+                    2020Winterest Mixschpiel Champion!! Ontario Silver Tankard runner-up Winterest Mixschpiel Champion!! Ontario Colts Provincial Champion Ontario Schoolboy Provincial Champion Ontario Bantam Boy's Provincial runner-up
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h4 id="mcetoc_1e19ucg6o0">2020</h4>
+<p>Winterest Mixschpiel Champion!!</p>
+<h4 id="mcetoc_1e19ucg6o0">2016</h4>
+<p>Ontario Silver Tankard runner-up</p>
+<h4 id="mcetoc_1e19ucg6o0">2015</h4>
+<p>Winterest Mixschpiel Champion!!</p>
+<h4 id="mcetoc_1e19ucmso1">2010</h4>
+<p>Ontario Colts Provincial Champion</p>
+<h4 id="mcetoc_1e19ucplu2">2007</h4>
+<p>Ontario Schoolboy Provincial Champion</p>
+<h4 id="mcetoc_1e19ucsmh3">2005</h4>
+<p>Ontario Bantam Boy's Provincial runner-up</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Check</title>
         <author>
