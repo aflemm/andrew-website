@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Me</title>
+    <title>About Me</title>
     <link href="https://andrewflemming.net/feed.xml" rel="self" />
     <link href="https://andrewflemming.net" />
-    <updated>2020-02-17T11:14:02-05:00</updated>
+    <updated>2020-02-17T14:55:14-05:00</updated>
     <author>
         <name>Andrew</name>
     </author>
