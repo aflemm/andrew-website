@@ -3,7 +3,7 @@
     <title>Me</title>
     <link href="https://andrewflemming.net/feed.xml" rel="self" />
     <link href="https://andrewflemming.net" />
-    <updated>2020-02-16T22:42:47-05:00</updated>
+    <updated>2020-02-16T22:47:17-05:00</updated>
     <author>
         <name>Andrew</name>
     </author>
@@ -38,7 +38,7 @@
         <id>https://andrewflemming.net/smartbroom/</id>
             <category term="projects"/>
 
-        <updated>2020-02-16T22:40:50-05:00</updated>
+        <updated>2020-02-16T22:47:01-05:00</updated>
             <summary>
                 <![CDATA[
                     The SmartBroom - first launched by my company Canadian Curling Tools Ltd. in 2013 - is a powerful tool for curlers interested in improving the effectiveness of their sweeping. It is used by national organizations and curling clubs around the world. 
@@ -48,7 +48,7 @@
             <![CDATA[
                 <p>The <a href="smartbroom.ca">SmartBroom</a> - first launched by my company Canadian Curling Tools Ltd. in 2013 - is a powerful tool for curlers interested in improving the effectiveness of their sweeping. It is used by national organizations and curling clubs around the world.</p>
 <p><img class="post__image post__image--center" src="https://andrewflemming.net/media/posts/4/SmartBroom.png" alt="SmartBroom: TNG" width="2349" height="714"></p>
-<p><img class="post__image post__image--center" src="https://andrewflemming.net/media/posts/4/Connected.png" alt="SmartBroom App" width="417" height="728"></p>
+<p><img class="post__image post__image--center" src="https://andrewflemming.net/media/posts/4/Connected.png" alt="SmartBroom App" width="309" height="540"></p>
             ]]>
         </content>
     </entry>
