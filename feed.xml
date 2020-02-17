@@ -3,7 +3,7 @@
     <title>Me</title>
     <link href="https://andrewflemming.net/feed.xml" rel="self" />
     <link href="https://andrewflemming.net" />
-    <updated>2020-02-16T22:47:17-05:00</updated>
+    <updated>2020-02-16T23:07:14-05:00</updated>
     <author>
         <name>Andrew</name>
     </author>
@@ -17,15 +17,21 @@
         <link href="https://andrewflemming.net/festivus-grievances/"/>
         <id>https://andrewflemming.net/festivus-grievances/</id>
 
-        <updated>2020-02-16T22:42:10-05:00</updated>
+        <updated>2020-02-16T23:06:32-05:00</updated>
             <summary>
                 <![CDATA[
-                    An iOS and watchOS app
+                    A silly iOS and watchOS app used to keep track of all the ways you've been disappointed by the people in your life. You enter grievances all year, and they remain hidden from everyone - even yourself. Keep all that anger bottled up until Festivus&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                An iOS and watchOS app
+                <p>A silly iOS and watchOS app used to keep track of all the ways you've been disappointed by the people in your life. You enter grievances all year, and they remain hidden from everyone - even yourself. Keep all that anger bottled up until <a href="https://en.wikipedia.org/wiki/Festivus" target="_blank" rel="noopener noreferrer">Festivus dinner</a> and the <a href="https://en.wikipedia.org/wiki/Festivus#Airing_of_Grievances" target="_blank" rel="noopener noreferrer">Airing of the Grievances</a>!</p>
+<p><a href="https://apps.apple.com/us/app/festivus-grievances/id1493124374?ls=1" target="_blank" rel="noopener noreferrer" title="App Store"><img class="post__image post__image--center" src="https://andrewflemming.net/media/posts/8/appstore.png" alt="App Store" width="185" height="55"></a></p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="https://andrewflemming.net/media/posts/8/gallery/New-grievance.png" ><img src="https://andrewflemming.net/media/posts/8/gallery/New-grievance-thumbnail.png" alt="" width="720" height="1257"></a></figure>
+<figure class="gallery__item"><a href="https://andrewflemming.net/media/posts/8/gallery/Grievances-hidden.png" ><img src="https://andrewflemming.net/media/posts/8/gallery/Grievances-hidden-thumbnail.png" alt="" width="720" height="1257"></a></figure>
+</div>
+<p><img class="post__image post__image--center" src="https://andrewflemming.net/media/posts/8/Grievances-Apple-Watch.png" alt="Grievances for Apple Watch" width="260" height="390"></p>
             ]]>
         </content>
     </entry>
