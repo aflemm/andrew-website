@@ -13,8 +13,28 @@
 <lastmod>2020-02-09T10:33:54-05:00</lastmod>
 </url>
 <url>
+<loc>https://andrewflemming.net/check/</loc>
+<lastmod>2020-02-17T09:35:22-05:00</lastmod>
+<image:image>
+<image:loc>https://andrewflemming.net/media/posts/10/check-iphone.png</image:loc>
+<image:title><![CDATA[Check iPhone]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://andrewflemming.net/media/posts/10/check-ipad.jpg</image:loc>
+<image:title><![CDATA[Check iPad]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://andrewflemming.net/curlbook/</loc>
-<lastmod>2019-06-21T11:14:20-04:00</lastmod>
+<lastmod>2020-02-17T09:57:15-05:00</lastmod>
+<image:image>
+<image:loc>https://andrewflemming.net/media/posts/3/CurlBook-combo.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://andrewflemming.net/media/posts/3/Scoring-combo.jpg</image:loc>
+<image:title><![CDATA[CurlBook Scoring]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://andrewflemming.net/festivus-grievances/</loc>
@@ -39,6 +59,9 @@
 <url>
 <loc>https://andrewflemming.net/me/</loc>
 <lastmod>2019-06-22T07:34:27-04:00</lastmod>
+</url>
+<url>
+<loc>https://andrewflemming.net/page/2/</loc>
 </url>
 <url>
 <loc>https://andrewflemming.net/photography/</loc>
@@ -79,6 +102,10 @@
 <image:loc>https://andrewflemming.net/media/posts/2/gallery/Little-house-thumbnail.jpeg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
+</url>
+<url>
+<loc>https://andrewflemming.net/projects/</loc>
+<lastmod>2020-02-17T09:07:06-05:00</lastmod>
 </url>
 <url>
 <loc>https://andrewflemming.net/smartbroom/</loc>
