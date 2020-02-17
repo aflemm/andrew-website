@@ -3,7 +3,7 @@
     <title>Me</title>
     <link href="https://andrewflemming.net/feed.xml" rel="self" />
     <link href="https://andrewflemming.net" />
-    <updated>2020-02-17T09:57:20-05:00</updated>
+    <updated>2020-02-17T10:32:27-05:00</updated>
     <author>
         <name>Andrew</name>
     </author>
@@ -17,15 +17,16 @@
         <link href="https://andrewflemming.net/check/"/>
         <id>https://andrewflemming.net/check/</id>
 
-        <updated>2020-02-17T09:35:22-05:00</updated>
+        <updated>2020-02-17T10:04:11-05:00</updated>
             <summary>
                 <![CDATA[
-                    I created Check in the summer of 2011, and maintained it until its retirement in 2019. Check was an iPad and iPhone list manager that was as simple as it was beautiful. Set in Futura, on simulated stacks of paper, even the most mundane lists&hellip;
+                     I created Check in the summer of 2011, and maintained it until its retirement in 2019. Check was an iPad and iPhone list manager that was as simple as it was beautiful. Set in Futura, on simulated stacks of paper, even the most mundane&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p dir="ltr">I created Check in the summer of 2011, and maintained it until its retirement in 2019.</p>
+                <p dir="ltr"><img class="post__image post__image--center" src="https://andrewflemming.net/media/posts/10/Screen-Shot-2020-02-17-at-10.03.20-AM.png" alt="" width="133" height="128"></p>
+<p dir="ltr">I created Check in the summer of 2011, and maintained it until its retirement in 2019.</p>
 <p dir="ltr">Check was an iPad and iPhone list manager that was as simple as it was beautiful. Set in Futura, on simulated stacks of paper, even the most mundane lists came to life as works of art. Finally, your lists could be beautiful. </p>
 <p dir="ltr">Check would sync your lists between your devices using Apple's iCloud service. So wherever you are, you could have your shopping lists, to-do lists, bucket lists, or whatever other list you could think of. </p>
 <p dir="ltr"><img class="post__image post__image--center" src="https://andrewflemming.net/media/posts/10/check-iphone.png" alt="Check iPhone" width="292" height="571"></p>
@@ -50,17 +51,23 @@
         <link href="https://andrewflemming.net/projects/"/>
         <id>https://andrewflemming.net/projects/</id>
 
-        <updated>2020-02-17T09:07:06-05:00</updated>
+        <updated>2020-02-17T10:32:20-05:00</updated>
             <summary>
                 <![CDATA[
-                    Current projects SmartBroom Festivus Grievances
+                    Current projectsSmartBroomFestivus GrievancesPast ProjectsCurlBook 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Current projects</p>
-<p>SmartBroom</p>
-<p>Festivus Grievances</p>
+                <h2 id="mcetoc_1e19r7est0">Current projects</h2>
+<h4 id="mcetoc_1e19s5qeq0"><a href="https://andrewflemming.net/smartbroom/">SmartBroom</a></h4>
+<img class="post__image post__image--center" src="https://andrewflemming.net/media/posts/9/cct-gear.jpg" alt="" width="184" height="178">
+<h4 id="mcetoc_1e19rl5772"><a href="https://andrewflemming.net/festivus-grievances/">Festivus Grievances</a></h4>
+<h2 id="mcetoc_1e19s6ie81"><img class="post__image post__image--center" src="https://andrewflemming.net/media/posts/9/Screen-Shot-2020-02-17-at-10.03.29-AM.png" width="146" height="143">Past Projects</h2>
+<h4 id="mcetoc_1e19s6rm22"><a href="https://andrewflemming.net/curlbook/">CurlBook</a></h4>
+<p><img class="post__image post__image--center" src="https://andrewflemming.net/media/posts/9/Screen-Shot-2020-02-17-at-10.04.41-AM.png" alt="" width="148" height="145"></p>
+<h4 id="mcetoc_1e19s73813"><a href="https://andrewflemming.net/check/">Check</a></h4>
+<p><img class="post__image post__image--center" src="https://andrewflemming.net/media/posts/9/Screen-Shot-2020-02-17-at-10.03.20-AM.png" alt="" width="147" height="141"></p>
             ]]>
         </content>
     </entry>
@@ -72,16 +79,17 @@
         <link href="https://andrewflemming.net/festivus-grievances/"/>
         <id>https://andrewflemming.net/festivus-grievances/</id>
 
-        <updated>2020-02-17T08:58:40-05:00</updated>
+        <updated>2020-02-17T10:06:48-05:00</updated>
             <summary>
                 <![CDATA[
-                    A silly app for iOS, iPadOS, and watchOS used to keep track of all the ways you've been disappointed by the people in your life. You enter grievances all year, and they remain hidden from everyone - even yourself. Keep all that anger bottled up&hellip;
+                     A silly app for iOS, iPadOS, and watchOS used to keep track of all the ways you've been disappointed by the people in your life. You enter grievances all year, and they remain hidden from everyone - even yourself. Keep all that anger bottled&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>A silly app for iOS, iPadOS, and watchOS used to keep track of all the ways you've been disappointed by the people in your life. You enter grievances all year, and they remain hidden from everyone - even yourself. Keep all that anger bottled up until <a href="https://en.wikipedia.org/wiki/Festivus" target="_blank" rel="noopener noreferrer">Festivus dinner</a> and the <a href="https://en.wikipedia.org/wiki/Festivus#Airing_of_Grievances" target="_blank" rel="noopener noreferrer">Airing of the Grievances</a>!</p>
-<p><a href="https://apps.apple.com/us/app/festivus-grievances/id1493124374?ls=1" target="_blank" rel="noopener noreferrer" title="App Store"><img class="post__image post__image--center" src="https://andrewflemming.net/media/posts/8/app-store.png" width="185" height="55"></a></p>
+                <p><img class="post__image post__image--center" src="https://andrewflemming.net/media/posts/8/Screen-Shot-2020-02-17-at-10.03.29-AM.png" alt="" width="159" height="155"></p>
+<p>A silly app for iOS, iPadOS, and watchOS used to keep track of all the ways you've been disappointed by the people in your life. You enter grievances all year, and they remain hidden from everyone - even yourself. Keep all that anger bottled up until <a href="https://en.wikipedia.org/wiki/Festivus" target="_blank" rel="noopener noreferrer">Festivus dinner</a> and the <a href="https://en.wikipedia.org/wiki/Festivus#Airing_of_Grievances" target="_blank" rel="noopener noreferrer">Airing of the Grievances</a>!</p>
+<p><img class="post__image post__image--center" src="https://andrewflemming.net/media/posts/8/app-store.png" width="185" height="55"></p>
 <div class="gallery"   >
 <figure class="gallery__item"><a href="https://andrewflemming.net/media/posts/8/gallery/New-grievance.png" ><img src="https://andrewflemming.net/media/posts/8/gallery/New-grievance-thumbnail.png" alt="" width="720" height="1257"></a></figure>
 <figure class="gallery__item"><a href="https://andrewflemming.net/media/posts/8/gallery/Grievances-hidden.png" ><img src="https://andrewflemming.net/media/posts/8/gallery/Grievances-hidden-thumbnail.png" alt="" width="720" height="1257"></a></figure>
@@ -122,15 +130,16 @@
         <id>https://andrewflemming.net/curlbook/</id>
             <category term="projects"/>
 
-        <updated>2020-02-17T09:57:15-05:00</updated>
+        <updated>2020-02-17T10:05:14-05:00</updated>
             <summary>
                 <![CDATA[
-                    From its release in 2009 to its retirement in 2018 CurlBook was the premier curling coaching software for iOS, used around the world by national teams, including the Canadian Curling Association. Learn more about CurlBook 
+                     From its release in 2009 to its retirement in 2018 CurlBook was the premier curling coaching software for iOS, used around the world by national teams, including the Canadian Curling Association. Learn more about CurlBook 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>From its release in 2009 to its retirement in 2018 CurlBook was <em>the</em> premier curling coaching software for iOS, used around the world by national teams, including the Canadian Curling Association.</p>
+                <p><img class="post__image post__image--center" src="https://andrewflemming.net/media/posts/3/Screen-Shot-2020-02-17-at-10.04.41-AM.png" alt="" width="145" height="141"></p>
+<p>From its release in 2009 to its retirement in 2018 CurlBook was <em>the</em> premier curling coaching software for iOS, used around the world by national teams, including the Canadian Curling Association.</p>
 <p class="align-center"><a href="https://curlbook.com/Features">Learn more about CurlBook</a></p>
 <p><img class="post__image post__image--center" src="https://andrewflemming.net/media/posts/3/CurlBook-combo.jpg" alt="" width="3000" height="4000"></p>
 <p><img class="post__image post__image--center" src="https://andrewflemming.net/media/posts/3/Scoring-combo.jpg" alt="CurlBook Scoring" width="3000" height="4000"></p>
