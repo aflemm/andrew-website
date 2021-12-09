@@ -1,0 +1,23 @@
+{{ define "main" }}
+  <article class="center cf pv5 ph3 ph4-ns mw7">
+      <section class="nested-copy-line-height lh-copy f4 nested-links nested-img mid-gray">
+        {{ .Content }}
+      </section>
+    
+    {{ if not .Params.omit_recent_posts }}
+
+    
+	  <section class="flex-ns flex-wrap justify-around mt5">
+	      {{ range .Paginator.Pages }}
+    	    <div class="relative w-100 w-30-l mb4 bg-white">
+	          {{- partial "summary.html" . -}}
+        	</div>
+    	  {{ end }}
+	    </section>
+    	{{- template "_internal/pagination.html" . -}}
+    {{ end }}
+    
+    
+    
+  </article>
+{{ end }}
