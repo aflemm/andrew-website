@@ -2,7 +2,7 @@
 title: "Barbecue Meat Palace"
 date: 2014-12-19T11:50-05:00
 omit_header_text: true
-draft: false
+draft: true
 postType: "post"
 ---
 As it would turn out, there is not a single restaurant in the world called Barbecue Meat Palace. 
