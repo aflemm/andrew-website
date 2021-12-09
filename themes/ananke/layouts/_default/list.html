@@ -5,16 +5,18 @@
       </section>
     
     {{ if not .Params.omit_recent_posts }}
-
     
-	  <section class="flex-ns flex-wrap justify-around mt5">
-	      {{ range .Paginator.Pages }}
-    	    <div class="relative w-100 w-30-l mb4 bg-white">
-	          {{- partial "summary.html" . -}}
-        	</div>
-    	  {{ end }}
-	    </section>
-    	{{- template "_internal/pagination.html" . -}}
+        
+	  <section>
+      {{ range .Paginator.Pages }}
+        <div class="relative w-100 w-100-l mb4 bg-white">
+          {{- partial "summary.html" . -}}
+        </div>
+      {{ end }}
+    </section>
+    
+    {{- template "_internal/pagination.html" . -}}
+    
     {{ end }}
     
     

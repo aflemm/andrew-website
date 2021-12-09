@@ -16,7 +16,13 @@
       </aside>
       {{/* partial "social-share.html" . */}}
       <h1 class="f1 athelas mt3 mb1">
-        {{- .Title -}}
+        {{ if (eq .Params.postType "quote")}}
+        <a href="{{ .Params.sourceURL }}" class="link black dim">
+          ♐︎ {{ .Title }}︎︎
+        </a>
+        {{ else }}
+          {{- .Title -}}
+        {{ end }}
       </h1>
       {{ with .Params.author | default .Site.Params.author }}
       <p class="tracked">
