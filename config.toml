@@ -30,7 +30,7 @@ pluralizeListTitles = false
   identifier = 'blog'
   name = 'Blog'
   title = 'blog'
-  url = '/posts/'
+  url = '/blog/'
   weight = 4
 
 [params]
