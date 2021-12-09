@@ -1,4 +1,4 @@
-baseURL = 'https://blog.andrewflemming.net/'
+baseURL = 'https://andrewflemming.net/'
 languageCode = 'en-us'
 title = "Andrew"
 theme = "ananke"
