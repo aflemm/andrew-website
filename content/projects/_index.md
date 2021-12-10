@@ -10,18 +10,18 @@ type: 'page'
 ---
 # Active Projects
 
-## [SmartBroom]({{< ref "smartbroom" >}} "SmartBroom")
-A smart curling broom
+### [SmartBroom]({{< ref "smartbroom" >}} "SmartBroom")
+>*A smart curling broom*
 
-## [Festivus Grievances]({{< ref "grievances" >}} "Festivus Grievances")
-A fun and silly app
+### [Festivus Grievances]({{< ref "grievances" >}} "Festivus Grievances")
+>*A fun and silly app*
 
-## [Make the Final](https://makethefinal.ca)
-A website dedicated to Vic Rauter
+### [Make the Final](https://makethefinal.ca)
+>*A website dedicated to Vic Rauter*
 
 # Past Projects
-## [CurlBook]({{< ref "curlbook" >}} "CurlBook")
-An awesome iOS app for curling coaches
+### [CurlBook]({{< ref "curlbook" >}} "CurlBook")
+>*An awesome iOS app for curling coaches*
 
-## [Check]({{< ref "check" >}} "Check")
-Beautiful lists for iOS
+### [Check]({{< ref "check" >}} "Check")
+>*Beautiful lists for iOS*

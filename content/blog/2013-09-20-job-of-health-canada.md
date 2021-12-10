@@ -7,6 +7,6 @@ postType: "quote"
 sourceURL: "https://theness.com/neurologicablog/index.php/health-canada-misses-the-point/"
 ---
 — Neurologica:
-<!--more-->
+
 >*"It is not the job of a health organization to respect diversity of opinion, but rather to respect the scientific evidence in order to do their job – protecting the public health."*
 

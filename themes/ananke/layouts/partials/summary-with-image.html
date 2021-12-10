@@ -1,5 +1,9 @@
 {{ $featured_image := partial "func/GetFeaturedImage.html" . }}
 <article class="bb b--black-10">
+	<time class="f6 dib tracked" {{ printf `datetime="%s"` (.Date.Format "2006-01-02T15:04:05Z07:00") | safeHTMLAttr }}>
+      {{- .Date.Format (default "January 2, 2006" .Site.Params.date_format) -}}
+    </time>
+    
   <div class="db pv4 ph3 ph0-l no-underline dark-gray">
     <div class="flex flex-column flex-row-ns">
       {{ if $featured_image }}
@@ -13,12 +17,20 @@
       {{ end }}
       <div class="blah w-100{{ if $featured_image }} w-60-ns pl3-ns{{ end }}">
         <h1 class="f3 fw1 athelas mt0 lh-title">
+        
+        {{ if (eq .Params.postType "quote")}}
+        <a href="{{ .Params.sourceURL }}" class="color-inherit dim link">
+          ♐︎ {{ .Title }}︎︎
+        </a>
+        {{ else }}
           <a href="{{.RelPermalink}}" class="color-inherit dim link">
             {{ .Title }}
             </a>
+        {{ end }}
+        
         </h1>
         <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
-          {{ .Summary }}
+          {{ .Content }}
         </div>
           <a href="{{.RelPermalink}}" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">{{ $.Param "read_more_copy" | default (i18n "readMore") }}</a>
         {{/* TODO: add author
