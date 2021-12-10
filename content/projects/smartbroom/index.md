@@ -14,6 +14,4 @@ The [SmartBroom](https://smartbroom.ca) — developed and sold by my company Can
 
 ![SmartBroom App image](smartbroom-app.png)
 
-
-
 [Learn more](https://smartbroom.ca)

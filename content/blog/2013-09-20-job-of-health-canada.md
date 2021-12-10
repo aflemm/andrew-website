@@ -1,7 +1,6 @@
 ---
 title: "Health Canada Misses the Point"
-date: 2015-01-16T11:50:00-05:00
-draft: false
+date: 2013-09-20T11:50:00-05:00
 type: "post"
 postType: "quote"
 sourceURL: "https://theness.com/neurologicablog/index.php/health-canada-misses-the-point/"

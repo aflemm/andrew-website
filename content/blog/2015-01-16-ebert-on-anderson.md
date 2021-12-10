@@ -1,7 +1,6 @@
 ---
 title: "Roger Ebert on Wes Anderson"
 date: 2015-01-16T11:50:00-05:00
-draft: false
 type: "post"
 postType: "quote"
 sourceURL: "https://href.li/?http://www.rogerebert.com/reviews/moonrise-kingdom-2012"

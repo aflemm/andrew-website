@@ -1,0 +1,20 @@
+<!-- post title 
+
+This title composing is shared by three partial post files
+
+Quoted links have an identifier preceeding, and a permalink icon following the title
+
+Article posts 
+
+
+-->
+{{ if (eq .Params.postType "quote")}}
+	<a href="{{ .Params.sourceURL }}" class="color-inherit dim link">
+	  ♐︎ {{ .Title }}︎︎ 
+	</a>
+    <a href="{{.RelPermalink}}" class="color-inherit dim link">{{ $.Param "read_more_copy" | default (i18n "readMore") }}</a>
+{{ else }}
+	<a href="{{.RelPermalink}}" class="color-inherit dim link">
+      ⎀ {{ .Title }}
+	</a>
+{{ end }}

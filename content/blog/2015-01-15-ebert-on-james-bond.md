@@ -1,7 +1,6 @@
 ---
 title: "Roger Ebert on James Bond"
-date: 2015-01-16T11:50:00-05:00
-draft: false
+date: 2015-01-15T11:50:00-05:00
 type: "post"
 postType: "quote"
 sourceURL: "https://www.rogerebert.com/reviews/the-living-daylights-1987"
