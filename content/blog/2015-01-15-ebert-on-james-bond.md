@@ -7,5 +7,5 @@ sourceURL: "https://www.rogerebert.com/reviews/the-living-daylights-1987"
 ---
 — Roger Ebert, reviewing The Living Daylights:
 
->*"The correct tone for the Bond films was established right at the start, with Sean Connery's quizzical eyebrows and sardonic smile. He understood that the Bond character was so preposterous that only lightheartedness could save him. The moment Bond began to act like a real man in a real world, all was lost."*
+>*The correct tone for the Bond films was established right at the start, with Sean Connery's quizzical eyebrows and sardonic smile. He understood that the Bond character was so preposterous that only lightheartedness could save him. The moment Bond began to act like a real man in a real world, all was lost.*
 
