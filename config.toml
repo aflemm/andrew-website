@@ -8,6 +8,14 @@ sectionPagesMenu = ['photography', 'projects', 'career', 'blog']
 pluralizeListTitles = false
 summaryLength = 10
 
+[outputs]
+  home = [ "RSS", "HTML"]
+  section  = ["HTML"]
+[outputFormats]
+  [outputFormats.RSS]
+    mediatype = "application/rss"
+    baseName = "feed"
+
 [menu]
 [[menu.main]]
   identifier = 'projects'
