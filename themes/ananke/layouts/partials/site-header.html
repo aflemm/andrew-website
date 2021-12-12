@@ -10,7 +10,11 @@
         <h1 class="f2 f-subheadline-l fw2 white-90 mb0 lh-title">
 
         	{{ if and (not .Params.omit_header_text) (not (eq .Params.type "post")) }}
-	          {{ .Title | default .Site.Title }}
+        	  {{ if .Params.header_override_text}}
+        	    {{ .Params.header_override_text}}
+        	  {{ else }}
+  	            {{ .Title | default .Site.Title }}
+	          {{ end }}
 	        {{ end }}
         </h1>
         {{ with .Params.description }}

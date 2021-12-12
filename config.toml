@@ -1,6 +1,6 @@
 baseURL = 'https://andrewflemming.net/'
 languageCode = 'en-us'
-title = "Andrew"
+title = "Andrew Flemming"
 theme = "ananke"
 publishDir = 'docs'
 Copyright = "Andrew Flemming"
