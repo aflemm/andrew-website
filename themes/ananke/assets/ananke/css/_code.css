@@ -22,3 +22,9 @@ pre {
   hyphens: none;
   position: relative;
 }
+
+img {
+	max-height:800px;
+	max-width:100%;
+	display:block;
+}

@@ -6,12 +6,12 @@ type: "page"
 menu: "projects"
 draft: false
 ---
-![SmartBroom Icon](smartbroom-icon.png)
+![SmartBroom Icon](/images/projects/smartbroom-icon.png)
 
 The [SmartBroom](https://smartbroom.ca) — developed and sold by my company Canadian Curling Tools Ltd. — is a powerful tool for curlers interested in improving the effectiveness of their sweeping. It is used by national organizations and curling clubs around the world.
 
-![SmartBroom hero image](smartbroom-hero.jpg)
+![SmartBroom hero image](/images/projects/smartbroom-hero.jpg)
 
-![SmartBroom App image](smartbroom-app.png)
+![SmartBroom App image](/images/projects/smartbroom-app.png)
 
 [Learn more](https://smartbroom.ca)

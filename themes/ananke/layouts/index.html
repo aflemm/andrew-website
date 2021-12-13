@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-  <article class="center cf pv5 ph3 ph4-ns mw7">
+  <article class="center cf pv3 ph3 ph4-ns mw7">
       <div class="nested-copy-line-height lh-copy f4 nested-links nested-img mid-gray">
         {{ .Content }}
       </div>
@@ -29,7 +29,9 @@
       {{/* Use $section_name to get the section title. Use "with" to only show it if it exists */}}
        {{ with .Site.GetPage "section" $section_name }}
           <h1 class="flex-none">
-            Latest Blog Posts
+          	<a href="{{ .RelPermalink }}" class="color-inherit dim link">
+          	Latest Blog Posts
+          	</a>
           </h1>
         {{ end }}
 

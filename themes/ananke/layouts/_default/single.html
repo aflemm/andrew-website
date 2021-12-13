@@ -7,6 +7,7 @@
   {{ $section := .Site.GetPage "section" .Section }}
   <article class="flex-l flex-wrap justify-between mw8 center ph3">
     <header class="mt4 w-100">
+      <!-->
       <aside class="instapaper_ignoref b helvetica tracked">
           {{/*
           CurrentSection allows us to use the section title instead of inferring from the folder.
@@ -14,6 +15,7 @@
           */}}
         <a href="{{ .CurrentSection.RelPermalink }}" class="link db f6 pa2 br3 bg-mid-gray white dim w4 tc">↩ {{ humanize .Section | upper  }}</a>
       </aside>
+      -->
       {{/* partial "social-share.html" . */}}
       <h1 class="f1 athelas mt3 mb1">
         
@@ -49,8 +51,9 @@
         <span class="f6 mv4 dib tracked"> - {{ i18n "wordCount" .WordCount }} </span>
       {{ end }}
     </header>
-    <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | default "serif"}} f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l">
+    <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | default "serif"}} f4 nested-links nested-img mid-gray pr4-l w-100">
       {{- .Content -}}
+      <!--
       {{- partial "tags.html" . -}}
       <div class="mt6 instapaper_ignoref">
       {{ if .Site.DisqusShortname }}
@@ -60,11 +63,12 @@
         {{- partial "commento.html" . -}}
       {{ end }}
       </div>
+      -->
     </div>
-
+<!-->
     <aside class="w-30-l mt6-l">
       {{- partial "menu-contextual.html" . -}}
     </aside>
-
+-->
   </article>
 {{ end }}

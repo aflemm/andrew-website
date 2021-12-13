@@ -5,11 +5,11 @@ omit_header_text: true
 draft: false
 type: "page"
 ---
-![](curlbook-icon.png)
+![CurlBook icon](/images/projects/curlbook-icon.png)
 
 From its release in 2009 to its retirement in 2018 CurlBook was the premier curling coaching software for iOS, used around the world by national teams, including Curling Canada.
 
 [Learn more about CurlBook at it's archived website](http://curlbook.andrewflemming.net)
 
-![](curlbook-combo.jpg)
-![](scoring-combo.jpg)
+![CurlBook screenshots](/images/projects/curlbook-combo.jpg)
+![CurlBook screenshots](/images/projects/scoring-combo.jpg)

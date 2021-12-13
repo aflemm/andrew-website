@@ -13,7 +13,7 @@ Check was an iPad and iPhone list manager that was as simple as it was beautiful
 
 Check would sync your lists between your devices using Apple's iCloud service. So wherever you are, you could have your shopping lists, to-do lists, bucket lists, or whatever other list you could think of. 
 
-![Check screenshots](check-combo.png)
+![Check screenshots](/images/projects/check-combo.png)
 
 With Check, you could email your lists to friends, families, bosses, Mothers-in-law, doctors, engineers, curling coaches ... and the list went on!
 
