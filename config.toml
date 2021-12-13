@@ -4,7 +4,7 @@ title = "Andrew Flemming"
 theme = "ananke"
 publishDir = 'docs'
 Copyright = "Andrew Flemming"
-sectionPagesMenu = ['photography', 'projects', 'career', 'blog']
+sectionPagesMenu = ['photography', 'projects', 'career', 'videos' 'blog']
 pluralizeListTitles = false
 summaryLength = 10
 
@@ -35,6 +35,12 @@ summaryLength = 10
 #  title = 'career'
 #  url = '/career/'
 #  weight = 3
+[[menu.main]]
+  identifier = 'videos'
+  name = 'Videos'
+  title = 'videos'
+  url = '/videos/'
+  weight = 3
 [[menu.main]]
   identifier = 'blog'
   name = 'Blog'
