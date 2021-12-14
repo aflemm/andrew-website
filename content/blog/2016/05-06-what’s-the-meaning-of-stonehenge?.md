@@ -6,4 +6,4 @@ tags: [blog]
 ---
 
 
-![What’s the Meaning of Stonehenge?](/images/blog/what’s-the-meaning-of-stonehenge?.jpg)
+![What’s the Meaning of Stonehenge?](/images/blog/whats-the-meaning-of-stonehenge.jpg)
