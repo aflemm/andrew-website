@@ -1,5 +1,6 @@
 ---
 title: "Photography"
+description: "A small gallery of some of my favourite shots"
 featured_image: '/images/header-summer.jpg'
 omit_header_text: false
 omit_title_text: true
