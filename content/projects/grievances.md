@@ -16,6 +16,8 @@ A silly app for iOS, iPadOS, and watchOS used to keep track of all the ways you'
 
 # iOS Version History
 
+---
+
 ## 2021.2
 
 *Released December, 2021*
@@ -30,6 +32,8 @@ A silly app for iOS, iPadOS, and watchOS used to keep track of all the ways you'
 - Wrong grievance text was being used in the 'share' sheet
 - When blur was being applied to hide grievances, blurred content was offset
 
+---
+
 ## 2021.1
 
 *Released November, 2021*
@@ -37,6 +41,8 @@ A silly app for iOS, iPadOS, and watchOS used to keep track of all the ways you'
 #### Bug Fixes
 
 - Grievances were not being automatically displayed on Festivus
+
+---
 
 ## 2020.1
 
