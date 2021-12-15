@@ -5,7 +5,7 @@ omit_header_text: true
 draft: false
 type: "page"
 ---
-![](check-icon.png)
+![](/images/projects/check-icon.png)
 
 I created Check in the summer of 2011, and maintained it until its retirement in 2019.
 
