@@ -7,5 +7,5 @@ sourceURL: "http://www.rogerebert.com/reviews/lost-in-translation-2003"
 ---
 — Roger Ebert:
 
->*They share something as personal as their feelings rather than something as generic as their genitals.*
+>They share something as personal as their feelings rather than something as generic as their genitals.
 

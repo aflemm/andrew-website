@@ -7,5 +7,5 @@ sourceURL: "http://www.sciencebasedmedicine.org/index.php/integrative-medicine-a
 ---
 — Science-Based Medicine:
 
->*There is no such thing as “alternative” medicine. There is medicine that has been proven safe and effective through science; there is medicine that has not.*
+>There is no such thing as “alternative” medicine. There is medicine that has been proven safe and effective through science; there is medicine that has not.
 

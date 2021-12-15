@@ -7,5 +7,5 @@ sourceURL: "http://www.macleans.ca/society/life/whatever-happened-to-the-great-d
 ---
 — Scott Feschuk, writing for Maclean's:
 
->*Now we’ve got nutjobs galore deciding not to vaccinate their kids based on advice from such medical experts as the guy whose brother knows a lady whose yoga instructor’s barista got vaccinated—and now she’s allergic to artisanal honey and hugs.*
+>Now we’ve got nutjobs galore deciding not to vaccinate their kids based on advice from such medical experts as the guy whose brother knows a lady whose yoga instructor’s barista got vaccinated—and now she’s allergic to artisanal honey and hugs.
 

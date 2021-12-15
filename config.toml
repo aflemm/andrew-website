@@ -8,6 +8,9 @@ sectionPagesMenu = ['photography', 'projects', 'career', 'videos' 'blog']
 pluralizeListTitles = false
 summaryLength = 10
 
+[permalinks]
+  blog = '/:section/:year/:slug/'
+
 [outputs]
   home = [ "RSS", "HTML"]
   section  = ["HTML"]
@@ -60,11 +63,11 @@ summaryLength = 10
   youtube = ""
   github = ""
   gitlab = ""
-  linkedin = ""
+  linkedin = "https://www.linkedin.com/in/andrew-flemming-aab98731/"
   mastodon = ""
   slack = ""
   stackoverflow = ""
-  rss = ""
+  rss = "http://andrewflemming.net/feed.xml"
   tiktok = ""
   
   mainSections = ["blog"]
