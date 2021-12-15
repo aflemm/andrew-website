@@ -53,7 +53,7 @@ summaryLength = 10
 
 [params]
   read_more_copy = "⚓︎"
-  author = ""
+  author = "Andrew Flemming"
   favicon = "/images/favicon.png"
   site_logo = ""
   description = "Hi 👋"

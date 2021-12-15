@@ -22,6 +22,7 @@
         {{ partial "partials/post-title.html" . }}
         
       </h1>
+      {{ if not (eq .Params.postType "quote") }}
       {{ with .Params.author | default .Site.Params.author }}
       <p class="tracked">
           By <strong>
@@ -32,6 +33,7 @@
           {{ end }}
           </strong>
       </p>
+      {{ end }}
       {{ end }}
       {{/* Hugo uses Go's date formatting is set by example. Here are two formats */}}
       {{ if not .Date.IsZero }}
