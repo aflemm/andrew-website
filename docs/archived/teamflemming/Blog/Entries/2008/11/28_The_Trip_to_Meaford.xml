@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="D4F9139E-A2E5-48A8-9E1B-35115315B142">
+  <lastEdited clientType="local-build-20131030" date="2013-10-30 14:50:26 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Diaries of a teenaged second&#xD;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>The Trip to Meaford</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Friday, November 28, 2008</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Hello Jacks and Jills, Harrys and Sallys,&#x2028;&#x2028;Reporting to you live from Collingwood Ontario.  We just arrived at my boy T-Nash&#x2019;s house and are chillin in his dope basement. We&#x2019;ve got PS3 pingpong and enough beds for Ed&#x2019;s entire anthropology class.  Big shout out to the Nash famjam who is putting us up. &#x2028;&#x2028;Dinner was hey badaboombadabing at Mario&#x2019;s residence.  We munched on about twelve loaves of bread and were pleasantly surprised to find their TV tuned to Best Damn Sports Show Hooters Pageant!  This was quite the dinner distraction for all of us (less Brandominatrix).  &#xD;&#xD;Tomorrow is the big first day of Regionals and Willbot is telling us to go to bed now. &#xD;To our only fan and my Number one boss T$, keep your lifejacket on and relax-- and thanks in advance for the words of wisdom.  &#xD;&#xD;Stay Ripe&#xD;Flemm</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="28_The_Trip_to_Meaford_files/shapeimage_1.png" left="0px" top="0px" width="419px" height="178px"/>
+</content>
