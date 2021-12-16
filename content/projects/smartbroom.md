@@ -3,7 +3,6 @@ title: "SmartBroom"
 date: 2021-12-02T11:50-05:00
 omit_header_text: true
 type: "page"
-menu: "projects"
 draft: false
 ---
 ![SmartBroom Icon](/images/projects/smartbroom-icon.png)
