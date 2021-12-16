@@ -14,7 +14,7 @@
         
         {{ partial "partials/post-date.html" . }}
         
-        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links w-100">
+        <div class="{{ $.Param "post_content_classes"  | default "nested-copy-line-height lh-copy"}} f4 nested-links nested-img mid-gray pr4-l w-100">
           {{ .Content }}
         </div>
 
