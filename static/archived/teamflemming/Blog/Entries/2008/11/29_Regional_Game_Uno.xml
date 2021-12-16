@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="D4F9139E-A2E5-48A8-9E1B-35115315B142">
+  <lastEdited clientType="local-build-20131030" date="2013-10-30 14:50:26 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Diaries of a teenaged second&#xD;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Regional Game Uno</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Saturday, November 29, 2008</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Word from Collingwood again. Arrived in Meaford this morning bright and early for game #1. After changing in the closet Meaford had set up for us, Will started getting on my nerves and I decided to show him who&#x2019;s boss. We had a serious UFC battle royale. It would have been a good fight if Wilload-of-crap hadn&#x2019;t cheated. I won&#x2019;t go into the details but I think everyone knows who the real winner was. (editor&#x2019;s note: Will always wins, he has &#x201C;The Belt&#x201D;)&#xD;&#xD;So the game was just like Kirsten Dunst - beautiful and nice to look at.   Our next game is at 5 so we&#x2019;re preparing mentally.  Serious pingpong minus a net, and munchin on cheerios.  I love chez Nash.  Who else has a urinal IN their house! That&#x2019;s when you know you&#x2019;ve made it.&#xD;&#x2028;I&#x2019;m out to go birdwatching around town. Starting at the slopes, then I&#x2019;ll go from there... &#xD;peace &#x2028;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="29_Regional_Game_Uno_files/shapeimage_1.png" left="0px" top="0px" width="420px" height="183px"/>
+</content>
