@@ -27,6 +27,7 @@ img {
 	max-height:800px;
 	max-width:100%;
 	display:block;
+	text-align:center
 }
 
 blockquote {
@@ -34,3 +35,15 @@ blockquote {
   padding-left: 15px;
   border-left: 3px solid #ccc;
 } 
+/*
+a.footnote-ref::before {
+    content: '[';
+}
+
+a.footnote-ref::after {
+    content: ']';
+}
+*/
+.footnotes {
+  font-style: italic;
+}
