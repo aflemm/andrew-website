@@ -11,19 +11,19 @@
     {{ $yearString := dateFormat "2006" now }}
     {{ $currentYear := int $yearString }}
 
-{{ range $index, $num := (seq (sub $currentYear 2011)) }}
-  {{ $archiveYear := (sub $currentYear $index) }}
-  <h1>{{ $archiveYear }}</h1>
+	  {{ range $index, $num := (seq (sub $currentYear 2011)) }}
+	  {{ $archiveYear := (sub $currentYear $index) }}
+	  <h1>{{ $archiveYear }}</h1>
   
-  {{ range where $.Site.Pages "Section" "blog" }}
-	  {{ if eq .Params.type "post" }}
-		  {{ if eq (.Date.Format "2006") (string $archiveYear) }}
-			  {{ partial "summary-no-content.html" . }}
+	  {{ range where $.Site.Pages "Section" "blog" }}
+		  {{ if eq .Params.type "post" }}
+			  {{ if eq (.Date.Format "2006") (string $archiveYear) }}
+				  {{ partial "summary-no-content.html" . }}
+			  {{ end }}
 		  {{ end }}
 	  {{ end }}
-  {{ end }}
   
-{{ end }}
+	{{ end }}
         
     </section>
   </div>
