@@ -1,6 +1,7 @@
 ---
 title: "Excellent But Limited Skillset"
 date: 2021-12-16T10:28:01-05:00
+lastmod: 2021-12-16T21:55:01-05:00
 type: "post"
 draft: false
 ---
