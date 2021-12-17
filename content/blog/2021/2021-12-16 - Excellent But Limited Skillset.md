@@ -4,7 +4,7 @@ date: 2021-12-16T10:28:01-05:00
 type: "post"
 draft: false
 ---
-Listening to [Vulcan Hello](https://www.theincomparable.com/vulcanhello/) recently, Scott said something that my brain found very sticky while discussing why a ninja-nun character went on a murderous robbery spree:
+Listening to [Vulcan Hello](https://www.theincomparable.com/vulcanhello/) recently, Scott said something that my brain found very sticky while discussing why a ninja-nun character (on Star Trek) went on a murderous robbery spree:
 
 >She had to take her excellent but limited skillset and apply it to this problem
 
