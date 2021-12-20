@@ -18,33 +18,34 @@ A silly app for iOS, iPadOS, and watchOS used to keep track of all the ways you'
 
 ---
 
-## 2021.2
+## 2021.2 {#2021-2}
 
 *Released December, 2021*
 
 #### Additions:
 
 - Added version number to preferences screen
+- Added a link to andrewflemming.net
 
-#### Bug Fixes:
+#### Fixed bugs:
 
 - Fixed over-sized icons in navigation bars
-- Wrong grievance text was being used in the 'share' sheet
+- Wrong grievance text was being used when sharing a grievance
 - When blur was being applied to hide grievances, blurred content was offset
 
 ---
 
-## 2021.1
+## 2021.1 {#2021-1}
 
 *Released November, 2021*
 
-#### Bug Fixes
+#### Fixed bugs:
 
 - Grievances were not being automatically displayed on Festivus
 
 ---
 
-## 2020.1
+## 2020.1 {#2020-1}
 
 *Released February, 2020*
 
