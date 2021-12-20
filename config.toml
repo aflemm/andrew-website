@@ -7,7 +7,7 @@ Copyright = "Andrew Flemming"
 sectionPagesMenu = "main"
 pluralizeListTitles = false
 paginate = 5
-summaryLength = 10
+summaryLength = 2
 
 
 [permalinks]
