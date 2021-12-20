@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Blog</title>
+    <link>file://localhost/Users/andrewflemming/Sites/teamflemming/Blog</link>
+    <description>Throughout the season, second Mike Flemming will be writing blog posts.  Our goals are to keep you informed of our progress, and entertained by it.
+
+This blog will be the best way to keep track of Team Flemming as we blaze a trail of glory across the province.</description>
+    <item>
+      <title>Quick Regional Wrap Up</title>
+      <link>file://localhost/Users/andrewflemming/Sites/teamflemming/Blog/Entries/2008/12/1_Quick_Regional_Wrap_Up.html</link>
+      <guid isPermaLink="false">18f53596-d72f-40d4-8763-2a86d0a1957e</guid>
+      <pubDate>Mon, 1 Dec 2008 09:07:14 -0500</pubDate>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/andrewflemming/Sites/teamflemming/Blog/Entries/2008/12/1_Quick_Regional_Wrap_Up.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>*Guest Post by Brandon McDonald*</title>
+      <link>file://localhost/Users/andrewflemming/Sites/teamflemming/Blog/Entries/2008/11/29__Guest_Post_by_Brandon_McDonald_.html</link>
+      <guid isPermaLink="false">48bff80b-b220-4919-906e-ca5fb0b1b014</guid>
+      <pubDate>Sat, 29 Nov 2008 20:23:32 -0500</pubDate>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/andrewflemming/Sites/teamflemming/Blog/Entries/2008/11/29__Guest_Post_by_Brandon_McDonald_.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Regional Game Uno</title>
+      <link>file://localhost/Users/andrewflemming/Sites/teamflemming/Blog/Entries/2008/11/29_Regional_Game_Uno.html</link>
+      <guid isPermaLink="false">c990e50c-8c98-4698-9341-b1e6b142c876</guid>
+      <pubDate>Sat, 29 Nov 2008 12:20:05 -0500</pubDate>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/andrewflemming/Sites/teamflemming/Blog/Entries/2008/11/29_Regional_Game_Uno.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>The Trip to Meaford</title>
+      <link>file://localhost/Users/andrewflemming/Sites/teamflemming/Blog/Entries/2008/11/28_The_Trip_to_Meaford.html</link>
+      <guid isPermaLink="false">e7d0ec15-27e5-4a2f-9ef7-c0619f0d045f</guid>
+      <pubDate>Fri, 28 Nov 2008 22:18:13 -0500</pubDate>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/andrewflemming/Sites/teamflemming/Blog/Entries/2008/11/28_The_Trip_to_Meaford.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Get Zoned in and Eat</title>
+      <link>file://localhost/Users/andrewflemming/Sites/teamflemming/Blog/Entries/2008/11/25_Get_Zoned_in_and_Eat.html</link>
+      <guid isPermaLink="false">97752a8b-77fc-4490-96cb-840e0f048aef</guid>
+      <pubDate>Tue, 25 Nov 2008 21:59:51 -0500</pubDate>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/andrewflemming/Sites/teamflemming/Blog/Entries/2008/11/25_Get_Zoned_in_and_Eat.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Life, Liberty and my Second Blog</title>
+      <link>file://localhost/Users/andrewflemming/Sites/teamflemming/Blog/Entries/2008/10/1_Life,_Liberty_and_my_Second_Blog.html</link>
+      <guid isPermaLink="false">0d0c073d-6527-4490-8c32-2295c9cf46a2</guid>
+      <pubDate>Wed, 1 Oct 2008 08:10:26 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/andrewflemming/Sites/teamflemming/Blog/Entries/2008/10/1_Life,_Liberty_and_my_Second_Blog.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>What's Bloggin'?</title>
+      <link>file://localhost/Users/andrewflemming/Sites/teamflemming/Blog/Entries/2008/9/23_Whats_Bloggin.html</link>
+      <guid isPermaLink="false">fc3f67c8-e584-4e76-b7fb-440ba8da1a7c</guid>
+      <pubDate>Tue, 23 Sep 2008 22:30:50 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/andrewflemming/Sites/teamflemming/Blog/Entries/2008/9/23_Whats_Bloggin.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, y</iweb:dateFormat>
+    <iweb:baseURL>file://localhost/Users/andrewflemming/Sites/teamflemming/Blog</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

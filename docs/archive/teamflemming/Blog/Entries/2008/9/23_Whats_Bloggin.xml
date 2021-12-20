@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="D4F9139E-A2E5-48A8-9E1B-35115315B142">
+  <lastEdited clientType="local-build-20131030" date="2013-10-30 14:50:25 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Diaries of a teenaged second&#xD;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>What's Bloggin'?</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Tuesday, September 23, 2008</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="23_Whats_Bloggin_files/shapeimage_1.png" left="0px" top="0px" width="416px" height="200px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Check chedda like a food inspecta&#x2019;, here is my first blog:&#xD;&#xD;So I have been a little behind on these blog entries. Im sorry, this is all new for me. Our first spiel has come and gone and we have had some success - we won! In the Pitaburrow we met Ed&#x2019;s mom; she is a French riot, just like the ones in Montreal when the Canadiens score a goal. She Hooked us up with some fine cooking, but would not let us stop eating.. &#xD;&#xD;Had two run-ins with the U of Ottawa girls soccer team and soccer has never looked so appealing. Whoever invented LuLu lemon is okay in my books.&#xD;&#xD;After winning, Andy, Ed, Willburforce and I each got a Wendy&#x2019;s frosty... While Brandon took a 1am bus ride back to Ottawa. &#xA0;He rolled in to the capitol just around 6am for his morning class. Back in &#x201C;the loo,&#x201D; we all woke up to news that a twenty-year old was stabbed on a greyhound that night... YIKES! We weren&#x2019;t too concerned because he is just the lead, but imagine if it was me! </richText>
+  </textBox>
+</content>
