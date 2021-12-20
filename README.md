@@ -1,4 +1,4 @@
-# blog
-Andrew's Blog
+# Site
+Andrew's Website and Blog
 
 Hugo
