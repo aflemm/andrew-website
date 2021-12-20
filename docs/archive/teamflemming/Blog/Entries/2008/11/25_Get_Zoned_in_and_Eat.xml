@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="D4F9139E-A2E5-48A8-9E1B-35115315B142">
+  <lastEdited clientType="local-build-20131030" date="2013-10-30 14:50:26 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Diaries of a teenaged second&#xD;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Get Zoned in and Eat</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Tuesday, November 25, 2008</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="25_Get_Zoned_in_and_Eat_files/shapeimage_1.png" left="0px" top="0px" width="420px" height="183px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I haven&#x2019;t blogged in a while so I should catch everyone up.&#xA0; The Oktoberfest Spiel was Wunderbar! The munch-for-lunch was excellent, Ein Prosit. &#xA0;Then on to a Halloween KW-spiel. &#xA0;We played like we had seen a ghost. And As for the halloween party, the costumes were... revealing... and regrettable.&#xD;&#xD;We have been practicing early in the morning (6:30AM, and Will's dumb idea). But it seems to have paid off because this past weekend at zones we played like we were getting paid. Unfortunately we weren't.&#xD;&#xD;Brandonia shot like a real cowgirl, Ed Circus-yr was playing smooth like a shaved cat and Andypandy was dropping shots like he was being whipped at home. The real hero was Coach Willdom. He Found time in his busy schedule to boost us with Boost. &#xA0;Plus he and I had an epic wrestling match pre-zones to get jacked. I wont say who won but I think it was a pretty even match... Judges decision.&#xD;&#xD;Im out &#xA0;to try and work off our zone-victory-feast, (nachos, spring-rolls, chicken wings, steak, french fries, French bread). Top it off with a nap and it made for a hell of a day.&#xA0;&#xD;&#xD;&#xD;word Meaford.</richText>
+  </textBox>
+</content>
