@@ -1,6 +1,6 @@
 ---
 title: "Bumper Sticker Design"
-date: 2021-12-21T08:28:01-05:00
+date: 2021-12-21
 lastmod: 
 type: "post"
 draft: true
