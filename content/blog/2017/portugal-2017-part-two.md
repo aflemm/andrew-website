@@ -5,4 +5,5 @@ type: "post"
 tags: [video]
 ---
 The second half of my 2017 trip to Portugal. Covering our time in Évora and Madeira.
+
 {{< vimeo 263698156 >}}
