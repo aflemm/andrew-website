@@ -13,14 +13,18 @@
 
 	  {{ range $index, $num := (seq (sub $currentYear 2011)) }}
 	  {{ $archiveYear := (sub $currentYear $index) }}
+	  
 	  <h1>{{ $archiveYear }}</h1>
   
-	  {{ range where $.Site.Pages "Section" "blog" }}
-		  {{ if eq .Params.type "post" }}
+      {{ range where $.Site.Pages "Section" "blog" }}
+      {{/* range where (where $.Site.Pages "Section" "blog" ) ".Params.postType" "!=" "quote" */}}
+	  {{/* if not (intersect .Params.tags (slice "gallery")) */}}
+		  {{ if (eq .Params.type "post") }}
 			  {{ if eq (.Date.Format "2006") (string $archiveYear) }}
 				  {{ partial "summary-no-content.html" . }}
 			  {{ end }}
 		  {{ end }}
+		  {{/* end */}}
 	  {{ end }}
   
 	{{ end }}
