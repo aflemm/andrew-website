@@ -1,9 +1,9 @@
 ---
 title: "Bumper Sticker Design"
-date: 2021-12-20
+date: 2021-12-21T08:45:00-05:00
 lastmod: 
 type: "post"
-draft: true
+draft: false
 ---
 
 ![bumper sticker](/images/blog/2021/fucking-bumper-sticker.png)
