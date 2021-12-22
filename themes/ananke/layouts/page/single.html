@@ -1,23 +1,24 @@
 {{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
 {{ define "main" }}
   <div class="flex-l mt2 mw8 center">
-    <article class="center cf pv5 ph3 ph4-ns mw7">
+    <article class="center cf pv2 ph3 ph4-ns mw7">
       
+      {{ if not .Params.omit_title_text }}
       <header>
       {{ if 0 }}
       	<p class="f6 b helvetica tracked">
           <a href="{{ .CurrentSection.RelPermalink }}" class="link db f6 pa2 br3 bg-mid-gray white dim w4 tc">↩ {{ humanize .Section | upper  }}</a>
         </p>
         {{ end }}
-		{{ if not .Params.omit_title_text }}
+		
         <h1 class="f1">
         	
       	{{ .Title }}
           	
         </h1>
-        {{ end }}
+        
       </header>
-      
+      {{ end }}
       
       <div class="nested-copy-line-height lh-copy f4 nested-links nested-img mid-gray">
         {{ .Content }}

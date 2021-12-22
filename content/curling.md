@@ -5,6 +5,19 @@ draft: false
 omit_title_text: true
 type: "page"
 ---
+
+I've been curling as long as I can remember. While my
+[sister](https://twitter.com/margotflemming)
+[is](https://athletics.uwaterloo.ca/news/2021/2/24/womens-curling-womens-curler-margot-flemming-competing-with-nwt-at-scotties.aspx)
+[the](https://www.curling.ca/blog/2021/09/23/rise-of-the-north/)
+[competitive](https://www.curling.ca/blog/2021/09/24/a-big-step-closer/)
+[curler](https://www.nnsl.com/sports/team-nwt-wins-national-mixed-curling-bronze/)
+of the family, and much of my involvement with the sport is now [behind the scenes]({{< ref "projects" >}}), the sport remains a lifelong passion of mine.
+
+![andrew flemming curling delivery](/images/pages/curling-delivery-behind.jpg)
+
+More for my own memory than anything else, here is a timeline of some of my curling history:
+
 # 2020
 Winterest Mixschpiel Champion
 
@@ -22,3 +35,9 @@ Ontario Schoolboy Provincial Champion
 
 # 2005
 Ontario Bantam Boy's Provincial runner-up
+
+# 1999
+Tried curling again, stuck with it this time
+
+# 1997
+Tried curling for the first time, hated it and quit
