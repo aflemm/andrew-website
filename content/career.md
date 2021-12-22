@@ -5,7 +5,7 @@ featured_image: '/images/header-summer.jpg'
 omit_header_text: false
 omit_title_text: true
 type: "page"
-draft: false
+draft: true
 ---
 
 Hire me, [Linkedin](https://www.linkedin.com/in/andrew-flemming-aab98731/)
