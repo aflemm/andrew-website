@@ -11,4 +11,4 @@ draft: false
 
 - [Follow me on Twitter](http://twitter.com/aflemm)
 - [Email me](mailto:contact@andrewflemming.net)
-- [Hire me](https://www.linkedin.com/in/andrew-flemming-aab98731/)
+- [Work with me](https://www.linkedin.com/in/andrew-flemming-aab98731/)
