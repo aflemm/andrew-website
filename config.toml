@@ -86,3 +86,5 @@ summaryLength = 2
   cover_dimming_class = "bg-black-10"
   
   recent_posts_number = 2
+  
+  env = "production"
