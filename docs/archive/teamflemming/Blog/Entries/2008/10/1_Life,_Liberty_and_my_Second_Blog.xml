@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="D4F9139E-A2E5-48A8-9E1B-35115315B142">
+  <lastEdited clientType="local-build-20131030" date="2013-10-30 14:50:26 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Diaries of a teenaged second&#xD;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Life, Liberty and my Second Blog</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Wednesday, October 1, 2008</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="1_Life,_Liberty_and_my_Second_Blog_files/shapeimage_1.png" left="0px" top="0px" width="420px" height="200px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>So we played about a thousand games in Coakville, and hit up this stellar coffee joint after most of them. &#xA0;I think it was called &#x201C;bean tree&#x201D;, or &#x201C;green bean&#x201D;, or &#x201C;green trees&#x201D; or maybe &#x201C;pot of gold&#x201D;... nonetheless they made some fine mocha-chinos and Brandon (he&#x2019;s alive) enjoyed his Nutty Irishmen. Who wouldn&#x2019;t?&#xD;&#xD;Big Shout Out to the Fanset team. I got two of their numbers! Who would&#x2019;ve thought we were capable of making new friends. &#xD;&#xD;So we trekked to my Aunts house and got all set up with free beds. Marlon-Brandon and I got to share the pullout couch and everything was fine until someone started grinding coffee at 1am.&#xD;&#xD;I think Willy lost some more hair watching us on Sunday, so some rest that night did us good. All in All another fine weekend and the team is gellin&#x2019; like we&#x2019;re wearing Dr. Scholls.</richText>
+  </textBox>
+</content>
