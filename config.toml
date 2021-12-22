@@ -4,7 +4,6 @@ title = "Andrew Flemming"
 theme = "ananke"
 publishDir = 'docs'
 Copyright = "Andrew Flemming"
-sectionPagesMenu = "main"
 pluralizeListTitles = false
 paginate = 5
 summaryLength = 2
