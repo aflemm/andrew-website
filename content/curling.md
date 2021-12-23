@@ -19,22 +19,22 @@ of the [family](https://www.thestar.com/sports/amateur/2009/03/28/kitchenerwater
 More for my own memory than anything else, here is a timeline of some of my curling history:
 
 # 2020
-Winterest Mixschpiel Champion
+🥇 Winterest Mixschpiel Champion
 
 # 2016
-Ontario Silver Tankard runner-up
+🥈 Ontario Silver Tankard runner-up
 
 # 2015
-Winterest Mixschpiel Champion
+🥇 Winterest Mixschpiel Champion
 
 # 2010
-Ontario Colts Provincial Champion
+🥇 Ontario Colts Provincial Champion
 
 # 2007
-Ontario Schoolboy Provincial Champion
+🥇 Ontario Schoolboy Provincial Champion
 
 # 2005
-Ontario Bantam Boy's Provincial runner-up
+🥈 Ontario Bantam Boy's Provincial runner-up
 
 # 1999
 Tried curling again, stuck with it this time
