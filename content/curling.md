@@ -4,6 +4,7 @@ date: 2021-12-02T11:50-05:00
 draft: false
 omit_title_text: true
 type: "page"
+typora-root-url: ../static
 ---
 
 I've been curling as long as I can remember. While my
@@ -37,7 +38,7 @@ More for my own memory than anything else, here is a timeline of some of my curl
 🥈 Ontario Bantam Boy's Provincial runner-up
 
 # 1999
-Tried curling again, stuck with it this time
+👍 Tried curling again, stuck with it this time
 
 # 1997
-Tried curling for the first time, hated it and quit
+👎 Tried curling, hated it, and quit
