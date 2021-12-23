@@ -3,10 +3,12 @@ languageCode = 'en-us'
 title = "Andrew Flemming"
 theme = "ananke"
 publishDir = 'docs'
+timeZone = 'America/Toronto'
 Copyright = "Andrew Flemming"
 pluralizeListTitles = false
 paginate = 5
 summaryLength = 2
+enableGitInfo = true
 
 
 [permalinks]
@@ -87,3 +89,9 @@ summaryLength = 2
   recent_posts_number = 2
   
   env = "production"
+
+[frontmatter]
+	date = ["date", "publishDate", "lastmod"]
+	lastmod = ["lastmod", ":git", "date", "publishDate"]
+	publishDate = ["publishDate", "date"]
+	expiryDate = ["expiryDate"]
