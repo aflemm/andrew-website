@@ -7,7 +7,7 @@ type: "page"
 ---
 ![Grievances app icon](/images/projects/grievances-icon.png)
 
-A silly app for iOS, iPadOS, and watchOS used to keep track of all the ways you've been disappointed by the people in your life. You enter grievances all year, and they remain hidden from everyone - even yourself. Keep all that anger bottled up until [Festivus dinner](https://en.wikipedia.org/wiki/Festivus) and the [airing of the grievances](https://en.wikipedia.org/wiki/Festivus#Airing_of_Grievances)!
+A silly app for iOS, iPadOS, and watchOS used to keep track of all the ways you've been disappointed by the people in your life. You enter grievances all year, and they remain hidden from everyone - even yourself. Keep all that anger bottled up until [Festivus dinner](https://en.wikipedia.org/wiki/Festivus) and the [airing of the grievances](https://en.wikipedia.org/wiki/Festivus#Airing_of_grievances)!
 
 [Download from the App Store](https://apps.apple.com/app/festivus-grievances/id1493124374)
 
@@ -17,6 +17,21 @@ A silly app for iOS, iPadOS, and watchOS used to keep track of all the ways you'
 # iOS Version History
 
 ---
+## 2022.2
+
+*Released January, 2022*
+
+- Added image cards for grievance airing on Festivus, ready to be shared on Instagram or LinkedIn
+- Added 'anger level' to each grievance, can now sort by 'anger' on Festivus
+- Added keyboard shortcuts [cmd+n, cmd+enter, esc, cmd+,]
+- Added keyboard tabbing between text fields in 'new grievance' view
+- New preference to control the direction of date sorting
+- Allowed fake Festivus to persist during session, only reset on fresh launch of the app
+- Changed 'problem' text entry to multi-line, giving much more room for much more anger!
+- Removed 'favourite' option from the grievance creation view (still present post-creation)
+- Restored editing of grievances
+- Updated layout of 'Not Festivus' view, and improved blur appearance
+
 ## 2022.1
 
 *Released January, 2022*
@@ -70,3 +85,17 @@ A silly app for iOS, iPadOS, and watchOS used to keep track of all the ways you'
 - Initial Release
 
 ---
+
+# watchOS Version History
+
+## 2022.1
+
+*Released January, 2022*
+
+- Replaced 'favourite' option with 'anger level' when creating a new grievance, to pair with iOS release 2022.2
+
+## 2020.1
+
+*Released February, 2020*
+
+- Initial Release
