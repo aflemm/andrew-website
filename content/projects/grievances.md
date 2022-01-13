@@ -17,7 +17,13 @@ A silly app for iOS, iPadOS, and watchOS used to keep track of all the ways you'
 # iOS Version History
 
 ---
-## 2022.2
+## 2022.3 {#iOS-2022-3}
+
+*Released January, 2022*
+
+- Fixes a rather annoying issue where upgrading to version 2022.2 from older versions of the app caused a failure to launch
+
+## 2022.2 {#iOS-2022-2}
 
 *Released January, 2022*
 
@@ -32,7 +38,7 @@ A silly app for iOS, iPadOS, and watchOS used to keep track of all the ways you'
 - Restored editing of grievances
 - Updated layout of 'Not Festivus' view, and improved blur appearance
 
-## 2022.1
+## 2022.1 {#iOS-2022-1}
 
 *Released January, 2022*
 
@@ -51,7 +57,7 @@ A silly app for iOS, iPadOS, and watchOS used to keep track of all the ways you'
 - 'Days until Festivus' message updates if midnight is passed
 ---
 
-## 2021.2 {#2021-2}
+## 2021.2 {#iOS-2021-2}
 
 *Released December, 2021*
 
@@ -68,7 +74,7 @@ A silly app for iOS, iPadOS, and watchOS used to keep track of all the ways you'
 
 ---
 
-## 2021.1 {#2021-1}
+## 2021.1 {iOS-#2021-1}
 
 *Released November, 2021*
 
