@@ -29,12 +29,12 @@ enableGitInfo = true
   title = 'projects'
   url = '/projects/'
   weight = 1
-[[menu.main]]
-  identifier = 'career'
-  name = 'Career'
-  title = 'career'
-  url = '/career/'
-  weight = 2
+#[[menu.main]]
+#  identifier = 'career'
+#  name = 'Career'
+#  title = 'career'
+#  url = '/career/'
+#  weight = 2
 [[menu.main]]
   identifier = 'photography'
   name = 'Photos'
