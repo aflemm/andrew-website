@@ -8,8 +8,6 @@ type: 'page'
 draft: true
 ---
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/andrew-flemming/).
-
 Career has had a focus on sustainability, electrification.
 
 ---
@@ -70,3 +68,6 @@ A company in Waterloo developing components for light electric vehicles. Grew fr
 
 <!-- [MTD RZT]({{< ref "mtd-zero-turn" >}}) -->
 
+---
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/andrew-flemming/)

@@ -30,29 +30,28 @@ enableGitInfo = true
   url = '/projects/'
   weight = 1
 [[menu.main]]
-  identifier = 'photography'
-  name = 'Photography'
-  title = 'photography'
-  url = '/photography/'
+  identifier = 'career'
+  name = 'Career'
+  title = 'career'
+  url = '/career/'
   weight = 2
-#[[menu.main]]
-#  identifier = 'career'
-#  name = 'Career'
-#  title = 'career'
-#  url = '/career/'
-#  weight = 3
+[[menu.main]]
+  identifier = 'photography'
+  name = 'Photos'
+  url = '/photography/'
+  weight = 3
 [[menu.main]]
   identifier = 'videos'
   name = 'Videos'
   title = 'videos'
   url = '/videos/'
-  weight = 3
+  weight = 4
 [[menu.main]]
   identifier = 'blog'
   name = 'Blog'
   title = 'blog'
   url = '/blog/'
-  weight = 4
+  weight = 5
 
 [params]
   read_more_copy = "⚓︎"
