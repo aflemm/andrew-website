@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-  <article class="center cf pv3 ph3 ph4-ns mw7">
+  <article class="center cf pv3 ph3 ph4-ns mw7-5">
       <div class="nested-copy-line-height lh-copy f4 nested-links nested-img mid-gray">
         {{ .Content }}
       </div>
@@ -27,7 +27,7 @@
     {{/* Derive the section name  */}}
     {{ $section_name := index (.Site.Params.mainSections) 0 }}
 
-    <div class="center cf pv0 ph3 ph4-ns mw7">
+    <div class="center cf pv0 ph3 ph4-ns mw7-5">
       {{/* Use $section_name to get the section title. Use "with" to only show it if it exists */}}
        {{ with .Site.GetPage "section" $section_name }}
           <h1 class="flex-none">
