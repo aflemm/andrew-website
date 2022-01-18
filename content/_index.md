@@ -7,8 +7,6 @@ omit_header_text: false
 omit_title_text: true
 draft: false
 ---
-👋 I'm Andrew Flemming — an Engineer (and [curler]({{< ref "curling" >}})) located in Kitchener, Ontario.
+👋 I'm an Engineer (and [curler]({{< ref "curling" >}})) located in Kitchener-Waterloo, Ontario 🇨🇦
 
-- [Follow me on Twitter](http://twitter.com/aflemm)
-- [Email me](mailto:contact@andrewflemming.net)
-- [Work with me](https://www.linkedin.com/in/andrew-flemming/)
+🐦 [@ me](http://twitter.com/aflemm) ~ ✉️ [Email me](mailto:contact@andrewflemming.net) ~ 🧑‍💻 [Work with me]({{< ref "career" >}})

@@ -5,16 +5,20 @@ omit_header_text: false
 omit_title_text: true
 omit_recent_posts: true
 type: 'page'
-draft: true
+draft: false
 ---
 
-Career has had a focus on sustainability, electrification.
+I am trained as a Mechanical Engineer (P.Eng), with experience leading multi-disciplinary teams (mechanical, hardware, software) through product design and manufacturing.
+
+I have had a focus on electrification and sustainability, and love being part of a small team trying to do something new.
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/andrew-flemming/)
 
 ---
 
 # Turntide Technologies [♐︎](http://turntide.com)
 
-A growing company, developing electrification systems.
+A rapidly growing company, developing electrification systems for buildings, agriculture, and transport. I currently lead the motor mechanical design team, developing high reliability industrial motors.
 
 {{< resume-role	
 	title="Manager, Electric Motor Design"
@@ -32,7 +36,7 @@ A growing company, developing electrification systems.
 
 # Accelerated Systems Inc. [♐︎](http://acceleratedsystems.com)
 
-A company in Waterloo developing components for light electric vehicles. Grew from ~10 people to over 50.
+Develops components and systems for light electric vehicles. During my time with ASi, I designed products for the eBike industry and systems for battery-electric riding lawnmowers; managed customer relationships during development projects; and ultimately lead the Engineering team.
 
 <!--#### Vice President, Technology #### -->
 
@@ -42,7 +46,6 @@ A company in Waterloo developing components for light electric vehicles. Grew fr
 	end="2020"
 >}}
 <!-- [Ariens]({{< ref "ariens-zero-turn" >}}) -->
-
 
 {{< resume-role	
 	title="Senior Project Engineer"
@@ -69,5 +72,14 @@ A company in Waterloo developing components for light electric vehicles. Grew fr
 <!-- [MTD RZT]({{< ref "mtd-zero-turn" >}}) -->
 
 ---
+<!--
+# Conestoga College
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/andrew-flemming/)
+{{< resume-role	
+	title="Bachelor of Engineering—Mechanical Systems"
+	start="2007"
+	end="2011"
+>}}
+
+---
+-->

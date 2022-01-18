@@ -13,7 +13,7 @@ The [SmartBroom]({{< ref "smartbroom" >}}) is a training tool used by high perfo
 
 [Festivus Grievances]({{< ref "grievances" >}}) is fun and silly iOS app for tracking grievances through the year.
 
-[Make the Final](https://makethefinal.ca) is a hilarious website dedicated to cataloging the ridiculous utterances of Vic Rauter.
+[Make the Final](https://makethefinal.ca) is a hilarious website (and [Instagram](https://www.instagram.com/makethefinal.ca/)) dedicated to cataloging the ridiculous utterances of Vic Rauter.
 
 # Past Projects
 [CurlBook]({{< ref "curlbook" >}}) was an iOS app for curling coaches to track performance and game statistics for their teams.
