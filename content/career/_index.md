@@ -45,14 +45,14 @@ Develops components and systems for light electric vehicles. During my time with
 	start="2018"
 	end="2020"
 >}}
-<!-- [Ariens]({{< ref "ariens-zero-turn" >}}) -->
+<!-- [Ariens]({{/*< ref "ariens-zero-turn" >*/}}) -->
 
 {{< resume-role	
 	title="Senior Project Engineer"
 	start="2017"
 	end="2018"
 >}}
-<!-- [MTD Tractors]({{< ref "mtd-tractors" >}}) -->
+<!-- [MTD Tractors]({{/*< ref "mtd-tractors" >*/}}) -->
 
 
 {{< resume-role	
@@ -60,7 +60,7 @@ Develops components and systems for light electric vehicles. During my time with
 	start="2014"
 	end="2016"
 >}}
-<!-- [Stella eBikes]({{< ref "stella-ebikes" >}}) -->
+<!-- [Stella eBikes]({{/*< ref "stella-ebikes" >*/}}) -->
 
 
 {{< resume-role	
@@ -69,7 +69,7 @@ Develops components and systems for light electric vehicles. During my time with
 	end="2013"
 >}}
 
-<!-- [MTD RZT]({{< ref "mtd-zero-turn" >}}) -->
+<!-- [MTD RZT]({{/*< ref "mtd-zero-turn" >*/}}) -->
 
 ---
 <!--
