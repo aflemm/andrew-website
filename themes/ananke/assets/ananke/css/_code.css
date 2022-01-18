@@ -27,7 +27,8 @@ img {
 	max-height:800px;
 	max-width:100%;
 	display:block;
-	text-align:center
+	text-align:center;
+	/*border: 20px solid white;*/
 }
 
 blockquote {
