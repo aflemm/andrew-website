@@ -40,12 +40,12 @@ enableGitInfo = true
   name = 'Photos'
   url = '/photography/'
   weight = 3
-[[menu.main]]
-  identifier = 'videos'
-  name = 'Videos'
-  title = 'videos'
-  url = '/videos/'
-  weight = 4
+#[[menu.main]]
+#  identifier = 'videos'
+#  name = 'Videos'
+#  title = 'videos'
+#  url = '/videos/'
+#  weight = 4
 [[menu.main]]
   identifier = 'blog'
   name = 'Blog'
