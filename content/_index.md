@@ -21,5 +21,5 @@ I'm Andrew — a
 ✉️ [Email me](mailto:contact@andrewflemming.net)  
 🧑‍💻 [Work with me](https://www.linkedin.com/in/andrew-flemming/)
 
-### Latest Blog Posts ⤵
+### Latest Blog Posts ⤵&#xFE0E;
 ---
