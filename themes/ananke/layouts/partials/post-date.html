@@ -5,8 +5,9 @@ This date composing is shared by three partial post files
 
 
 -->
-<time class="f6 dib tracked" {{ printf `datetime="%s"` (.Date.Format "2006-01-02T15:04:05Z07:00") | safeHTMLAttr }}>
-<a href="{{.RelPermalink}}" class="color-inherit dim link">
-	{{- .Date.Format (default "January 2, 2006" .Site.Params.date_format) -}} ∞
+<time class="f6 prominent-links dib tracked" {{ printf `datetime="%s"` (.Date.Format "2006-01-02T15:04:05Z07:00") | safeHTMLAttr }}>
+{{- .Date.Format (default "January 2, 2006" .Site.Params.date_format) -}}
+<a href="{{.RelPermalink}}" title="Permalink" class="f4">
+	∞
 </a>	
 </time>

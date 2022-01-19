@@ -54,11 +54,23 @@ a.footnote-ref::after {
 }
 
 .nested-links a {
+	color: inherit;
+	text-decoration-line: underline;
+	text-underline-offset:5px;
+	text-decoration-style: solid;
+	text-decoration-color: #7FBBDD;
+}
+
+.nested-links a:hover {
+	color: #7FBBDD;
+}
+
+.prominent-links a {
 	color: #bc0000;
 	text-decoration-line: none;
 }
 
-.nested-links a:hover {
+.prominent-links a:hover {
 	color: #ea9999;
 	text-decoration-line: underline;
   	text-decoration-style: dashed;

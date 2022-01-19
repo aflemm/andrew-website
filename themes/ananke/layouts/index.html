@@ -29,6 +29,7 @@
 
     <div class="center cf pv0 ph3 ph4-ns mw7">
       {{/* Use $section_name to get the section title. Use "with" to only show it if it exists */}}
+      {{/*
        {{ with .Site.GetPage "section" $section_name }}
           <h1 class="flex-none">
           	<a href="{{ .RelPermalink }}" class="color-inherit dim link">
@@ -37,7 +38,7 @@
           	<hr>
           </h1>
         {{ end }}
-
+*/}}
       {{ $n_posts := $.Param "recent_posts_number" | default 3 }}
 
       <section class="w-100 mw8">
