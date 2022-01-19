@@ -10,10 +10,10 @@ draft: false
 ### 👋 Hello.
 
 I'm Andrew — a 
-[curler]({{< ref "curling" >}}) 🥌 and
-[engineer]({{< ref "career" >}}) 👷‍♂, who occasionally develops
-[iOS apps]({{< ref "grievances" >}}) 📱, and co-created the 
-[SmartBroom]({{< ref "SmartBroom" >}}) 🧹. I'm based in Kitchener-Waterloo, Ontario, 🇨🇦.
+[curler]({{< ref "curling" >}}) 🥌, and
+[engineer]({{< ref "career" >}}) 👷‍♂, who (co)created the 
+[SmartBroom]({{< ref "SmartBroom" >}}) 🧹, and occasionally develops
+[iOS apps]({{< ref "grievances" >}}) 📱. I'm based in Kitchener-Waterloo, Ontario, 🇨🇦.
 
 
 ### Want to get in touch?
@@ -21,5 +21,5 @@ I'm Andrew — a
 ✉️ [Email me](mailto:contact@andrewflemming.net)  
 🧑‍💻 [Work with me](https://www.linkedin.com/in/andrew-flemming/)
 
+### Latest Blog Posts ⤵
 ---
-

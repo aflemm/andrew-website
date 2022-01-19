@@ -1,11 +1,11 @@
 
-<article class="bb b--black-10">
+<article class="bb b--black-40">
     
-  <div class="db pv4 ph3 ph0-l no-underline dark-gray">
+  <div class="db pv0 ph3 ph0-l no-underline dark-gray">
     <div class="flex flex-column flex-row-ns">
 
-      <div class="blah w-100">
-        <h1 class="f2 fw1 athelas mt0 lh-title">
+      <div class="w-100">
+        <h1 class="f2 avenir near-black">
         
 		{{ partial "partials/post-title.html" . }}
         
@@ -14,7 +14,7 @@
         
         {{ partial "partials/post-date.html" . }}
         
-        <div class="{{ $.Param "post_content_classes"  | default "nested-copy-line-height lh-copy"}} f4 nested-links nested-img mid-gray pr4-l w-100">
+        <div class="{{ $.Param "post_content_classes"  | default "nested-copy-line-height lh-copy"}}">
           {{ .Content }}
         </div>
 

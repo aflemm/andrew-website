@@ -17,16 +17,15 @@ Check would sync your lists between your devices using Apple's iCloud service. S
 
 With Check, you could email your lists to friends, families, bosses, Mothers-in-law, doctors, engineers, curling coaches ... and the list went on!
 
-- *You would be amazed as Check made you at least 6,000 times more efficient in every aspect of your day-to-day life!**
+- *You would be amazed as Check made you at least 6,000 times more efficient in every aspect of your day-to-day life!*[^1]
 
-- *Your jaw would feel excruciating pain, as it dropped to the floor when Check made you new friends, and gave you more power over old ones.**
+- *Your jaw would feel excruciating pain, as it dropped to the floor when Check made you new friends, and gave you more power over old ones.*[^1]
 
-- *You’d look back on your pre-Check life as a distant ghost of a reflection of a dream, as you became a stronger, smarter, faster, sexier version of yourself than you ever thought possible.**
+- *You’d look back on your pre-Check life as a distant ghost of a reflection of a dream, as you became a stronger, smarter, faster, sexier version of yourself than you ever thought possible.*[^1]
 
-- *A mind-numbing satisfaction would take hold, when you realized that you are better than over 99% of the population**
+- *A mind-numbing satisfaction would take hold, when you realized that you are better than over 99% of the population*[^1]
 
-Check did all of these things, and more.†
+Check did all of these things, and more.[^2]
 
->*_Results not typical_
-
->†_Or maybe it did none of them ..._
+[^1]: Results not typical
+[^2]: Or maybe it did none of them ...
