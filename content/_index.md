@@ -13,7 +13,7 @@ draft: false
 
 - 👷‍♂️ [Engineer]({{< ref "career" >}})
 
-- 📱 [Hobbyist iOS developer]({{< ref "grievances" >}})
+- 📱 [Occasional iOS developer]({{< ref "grievances" >}})
 
 - 🧹 [Co-creator of the SmartBroom]({{< ref "SmartBroom" >}})
 

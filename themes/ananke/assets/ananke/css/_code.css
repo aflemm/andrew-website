@@ -31,10 +31,6 @@ img {
 	/*border: 20px solid white;*/
 }
 
-.bordered-image img {
-border: 20px solid black;
-}
-
 blockquote {
   font: 1em Times, serif;
   font-style: italic;
