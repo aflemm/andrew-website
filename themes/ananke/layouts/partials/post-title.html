@@ -10,8 +10,9 @@ Article posts
 -->
 {{ if (eq .Params.postType "quote")}}
 	<a href="{{ .Params.sourceURL }}" class="color-inherit dim link">
-	  ♐︎ {{ .Title }}︎︎ 
+	  ⤻ {{ .Title }}︎︎ 
 	</a>
+	<!--♐-->
     <!--<a href="{{.RelPermalink}}" class="color-inherit dim link">{{ $.Param "read_more_copy" | default (i18n "readMore") }}</a> -->
 {{ else }}
 	<a href="{{.RelPermalink}}" class="color-inherit dim link">

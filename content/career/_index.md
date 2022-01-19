@@ -16,7 +16,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/andrew-flemming/)
 
 ---
 
-# Turntide Technologies [♐︎](http://turntide.com)
+# Turntide Technologies [⤻](http://turntide.com)
 
 A rapidly growing company, developing electrification systems for buildings, agriculture, and transport. I currently lead the motor mechanical design team, developing high reliability industrial motors.
 
@@ -34,7 +34,7 @@ A rapidly growing company, developing electrification systems for buildings, agr
 
 ---
 
-# Accelerated Systems Inc. [♐︎](http://acceleratedsystems.com)
+# Accelerated Systems Inc. [⤻︎](http://acceleratedsystems.com)
 
 Develops components and systems for light electric vehicles. During my time with ASi, I designed products for the eBike industry and systems for battery-electric riding lawnmowers; managed customer relationships during development projects; and ultimately lead the Engineering team.
 
