@@ -31,10 +31,18 @@ img {
 	/*border: 20px solid white;*/
 }
 
+.bordered-image img {
+border: 20px solid black;
+}
+
 blockquote {
+  font: 1em Times, serif;
   font-style: italic;
   padding-left: 15px;
-  border-left: 3px solid #ccc;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  border-left: 8px solid #e7e7e7;
+  background: #fafafa;
 } 
 /*
 a.footnote-ref::before {
@@ -48,3 +56,16 @@ a.footnote-ref::after {
 .footnotes {
   font-style: italic;
 }
+
+.nested-links a {
+	color: #bc0000;
+	text-decoration-line: none;
+}
+
+.nested-links a:hover {
+	color: #ea9999;
+	text-decoration-line: underline;
+  	text-decoration-style: dashed;
+  	text-decoration-color: #ea9999;
+}
+
