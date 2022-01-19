@@ -74,7 +74,7 @@ A silly app for iOS, iPadOS, and watchOS used to keep track of all the ways you'
 
 ---
 
-## 2021.1 {iOS-#2021-1}
+## 2021.1 {#iOS-2021-1}
 
 *Released November, 2021*
 
@@ -84,7 +84,7 @@ A silly app for iOS, iPadOS, and watchOS used to keep track of all the ways you'
 
 ---
 
-## 2020.1 {#2020-1}
+## 2020.1 {#iOS-2020-1}
 
 *Released February, 2020*
 
@@ -94,13 +94,13 @@ A silly app for iOS, iPadOS, and watchOS used to keep track of all the ways you'
 
 # watchOS Version History
 
-## 2022.1
+## 2022.1 {#watchOS-2022-1}
 
 *Released January, 2022*
 
 - Replaced 'favourite' option with 'anger level' when creating a new grievance, to pair with iOS release 2022.2
 
-## 2020.1
+## 2020.1 {#watchOS-2020-1}
 
 *Released February, 2020*
 
