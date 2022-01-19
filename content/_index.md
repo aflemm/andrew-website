@@ -13,9 +13,9 @@ draft: false
 
 - 👷‍♂️ [Engineer]({{< ref "career" >}})
 
-- 📱 [Occasional iOS developer]({{< ref "grievances" >}})
+- 📱 [iOS developer]({{< ref "grievances" >}})
 
-- 🧹 [Co-creator of the SmartBroom]({{< ref "SmartBroom" >}})
+- 🧹 [SmartBroom co-creator]({{< ref "SmartBroom" >}})
 
 Located in Kitchener-Waterloo, Ontario 🇨🇦
 
