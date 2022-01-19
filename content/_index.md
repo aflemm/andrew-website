@@ -10,9 +10,9 @@ draft: false
 ### 👋 Hello.
 
 I'm Andrew — a 
-[curler]({{< ref "curling" >}}) 🥌, and
-[engineer]({{< ref "career" >}}) 👷‍♂, who (co)created the 
-[SmartBroom]({{< ref "SmartBroom" >}}) 🧹, and occasionally develops
+[curler]({{< ref "curling" >}}) 🥌, an
+[engineer]({{< ref "career" >}}) 👷‍♂, co-creator of the 
+[SmartBroom]({{< ref "SmartBroom" >}}) 🧹, and occasional developer of
 [iOS apps]({{< ref "grievances" >}}) 📱. I'm based in Kitchener-Waterloo, Ontario, 🇨🇦.
 
 
