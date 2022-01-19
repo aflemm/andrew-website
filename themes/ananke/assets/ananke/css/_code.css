@@ -30,15 +30,28 @@ img {
 	text-align:center;
 	/*border: 20px solid white;*/
 }
-
+/*
 blockquote {
   font: 1em Times, serif;
   font-style: italic;
+  margin-left: 0px;
   padding-left: 15px;
+  padding-right: 15px;
   padding-top: 1px;
   padding-bottom: 1px;
   border-left: 8px solid #e7e7e7;
   background: #fafafa;
+} 
+*/
+blockquote {
+  font: 1em Times, serif;
+  font-style: italic;
+  margin-left: 0px;
+  padding-left: 15px;
+  padding-right: 15px;
+
+  border-left: 4px solid #7FBBDD;
+  
 } 
 /*
 a.footnote-ref::before {
