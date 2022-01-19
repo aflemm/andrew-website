@@ -3,6 +3,8 @@ title: "Fun With Festivus Grievances"
 date: 2022-01-xx
 type: "post"
 draft: true
+typora-root-url: ../../../static
+typora-copy-images-to: ../../../static/images/blog/2022
 ---
 
 # Fun With Festivus Grievances

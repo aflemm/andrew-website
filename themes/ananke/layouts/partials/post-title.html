@@ -15,6 +15,13 @@ Article posts
     <!--<a href="{{.RelPermalink}}" class="color-inherit dim link">{{ $.Param "read_more_copy" | default (i18n "readMore") }}</a> -->
 {{ else }}
 	<a href="{{.RelPermalink}}" class="color-inherit dim link">
-      ⎀ {{ .Title }}
+      {{ if (intersect .Params.tags (slice "gallery")) }}
+      ⟡ 
+      {{ else if (intersect .Params.tags (slice "video")) }}
+      ⟡ 
+      {{ else }}
+      ⎀ 
+      {{ end }}
+      {{ .Title }}
 	</a>
 {{ end }}

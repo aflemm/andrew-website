@@ -1,23 +1,24 @@
 
-<article class="bb b--black-10">
-    
-  <div class="db pv4 ph3 ph0-l no-underline dark-gray">
+<!--<article class="bb b--black-10">-->
+  <article class="">
+  <div class="db pv0 ph3 ph0-l no-underline dark-gray">
     <div class="flex flex-column flex-row-ns">
 
       <div class="blah w-100">
+      {{ partial "partials/post-date.html" . }}       
         <h1 class="f3 fw1 athelas mt0 lh-title">
         
 		{{ partial "partials/post-title.html" . }}
         
 
         </h1>
+       
         
-        {{ partial "partials/post-date.html" . }}
-        
+ <!--         
         <div class="f6 pv2 f5-l lh-copy nested-copy-line-height nested-links">
           {{ .Summary }}
         </div>
-
+-->
       </div>
     </div>
   </div>

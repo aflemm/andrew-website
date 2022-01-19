@@ -7,6 +7,16 @@ omit_header_text: false
 omit_title_text: true
 draft: false
 ---
-👋 I'm an Engineer (and [curler]({{< ref "curling" >}})) located in Kitchener-Waterloo, Ontario 🇨🇦
+👋 I'm Andrew.
 
-🐦 [@ me](http://twitter.com/aflemm) ~ ✉️ [Email me](mailto:contact@andrewflemming.net) ~ 🧑‍💻 [Work with me]({{< ref "career" >}})
+- 🥌 [Curler]({{< ref "curling" >}})
+
+- 👷‍♂️ [Engineer]({{< ref "career" >}})
+
+- 📱 [Hobbyist iOS developer]({{< ref "grievances" >}})
+
+- 🧹 [Co-creator of the SmartBroom]({{< ref "SmartBroom" >}})
+
+Located in Kitchener-Waterloo, Ontario 🇨🇦
+
+🐦 [@ me](http://twitter.com/aflemm) ~ ✉️ [Email me](mailto:contact@andrewflemming.net) ~ 🧑‍💻 [Work with me](https://www.linkedin.com/in/andrew-flemming/)

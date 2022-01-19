@@ -10,3 +10,5 @@ type: "page"
 layout: "blog-subset"
 subtag: "gallery"
 ---
+
+Similarly, check out my [Videos]({{< ref "videos" >}})
