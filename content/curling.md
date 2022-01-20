@@ -13,7 +13,7 @@ I've been curling as long as I can remember. While my
 [the](https://www.curling.ca/blog/2021/09/23/rise-of-the-north/)
 [competitive](https://www.curling.ca/blog/2021/09/24/a-big-step-closer/)
 [curler](https://www.nnsl.com/sports/team-nwt-wins-national-mixed-curling-bronze/)
-of the [family](https://www.thestar.com/sports/amateur/2009/03/28/kitchenerwaterloo_wins_ontario_boys_curling_title.html), and much of my involvement with the sport is now [behind the scenes]({{< ref "projects" >}}), the sport remains a lifelong passion of mine.
+of the [family](https://www.thestar.com/sports/amateur/2009/03/28/kitchenerwaterloo_wins_ontario_boys_curling_title.html), and much of my involvement with the sport is now [behind the scenes]({{< ref "projects" >}}), it remains a lifelong passion of mine.
 
 ![andrew flemming curling delivery](/images/pages/curling-delivery-behind.jpg)
 

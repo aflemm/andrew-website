@@ -8,9 +8,9 @@ type: 'page'
 draft: false
 ---
 
-I am trained as a Mechanical Engineer (P.Eng), with experience leading multi-disciplinary teams (mechanical, hardware, software) through product design and manufacturing.
+I am a Mechanical Engineer (P.Eng), with experience leading multi-disciplinary teams (mechanical, hardware, software) through product development and early volume manufacturing.
 
-I have had a focus on electrification and sustainability, and love being part of a small team trying to do something new.
+I have a focus on electrification and sustainability, and love being part of a small team trying to do something new.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/andrew-flemming/)
 
@@ -18,7 +18,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/andrew-flemming/)
 
 # Turntide Technologies [⤻](http://turntide.com)
 
-A rapidly growing company, developing electrification systems for buildings, agriculture, and transport. I currently lead the motor mechanical design team, developing high reliability industrial motors.
+A rapidly growing company, developing electrification systems for buildings, agriculture, and transport. I currently lead the motor mechanical design team, developing high efficiency industrial motors.
 
 {{< resume-role	
 	title="Manager, Electric Motor Design"
@@ -72,14 +72,3 @@ Develops components and systems for light electric vehicles. During my time with
 <!-- [MTD RZT]({{/*< ref "mtd-zero-turn" >*/}}) -->
 
 ---
-<!--
-# Conestoga College
-
-{{< resume-role	
-	title="Bachelor of Engineering—Mechanical Systems"
-	start="2007"
-	end="2011"
->}}
-
----
--->

@@ -13,13 +13,14 @@ I'm Andrew — a
 [curler]({{< ref "curling" >}}) 🥌, an
 [engineer]({{< ref "career" >}}) 👷‍♂, co-creator of the 
 [SmartBroom]({{< ref "SmartBroom" >}}) 🧹, and occasional developer of
-[iOS apps]({{< ref "grievances" >}}) 📱. I'm based in Kitchener-Waterloo, Ontario, 🇨🇦.
+[iOS apps]({{< ref "grievances" >}}) 📱, based in Kitchener-Waterloo 🇨🇦.
 
+Learn about some of my past and current [ projects]({{< ref "projects" >}}) 💡, or check out some of my [photos]({{< ref "photography" >}}) 📸 and [videos]({{< ref "videos" >}}) 🎥.
 
 ### Want to get in touch?
 🐦 [@ me](http://twitter.com/aflemm) \
 ✉️ [Email me](mailto:contact@andrewflemming.net)  
-🧑‍💻 [Work with me](https://www.linkedin.com/in/andrew-flemming/)
+👨‍💻 [Work with me](https://www.linkedin.com/in/andrew-flemming/)
 
 ### Latest Blog Posts ⤵&#xFE0E;
 ---
