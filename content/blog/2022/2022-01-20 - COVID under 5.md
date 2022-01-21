@@ -17,7 +17,7 @@ In a way it's even worse for those of us with kids under 2. From an [update give
 
 >Compared to the 16- to 25-year-old population in which high efficacy was demonstrated, **non-inferiority was met for the 6- to 24-month-old population** but not for the 2- to under 5-year-old population in this analysis. No safety concerns were identified and the 3 µg dose demonstrated a favorable [*sic*] safety profile in children 6 months to under 5 years of age. [Emphasis added]
 
-So *we have a safe and effective vaccine for the 6-month to 2-year-old age group*, we've had it for over a month now, but we're not rolling it out because ... we simply can't be bothered? Pardon me while *I* scream for a second.
+So we have a *safe and effective vaccine* for the 6-month to 2-year-old age group, we've had it for over a month now, but we're not rolling it out because ... we simply can't be bothered? Pardon me while *I* scream for a second.
 
-We're simply supposed to accept that our kids will inevitably get COVID without being vaccinated because protecting them would simply be too much effort for us to collectively muster. But don't worry, they *probably* won't end up in the hospital, and they *probably* won't die — that should be comfort enough, right? 
+We're just supposed to accept that our kids will inevitably get COVID without being vaccinated because protecting them would simply be too much effort for us to collectively muster. But don't worry, they *probably* won't end up in the hospital, and they *probably* won't die — that should be comfort enough, right? 
 
