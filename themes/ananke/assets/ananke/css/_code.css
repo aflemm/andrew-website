@@ -46,8 +46,7 @@ blockquote {
 blockquote {
   font: 1em Times, serif;
   
-  margin-left: 0px;
-  margin-right: 0px;
+  margin: 0px;
   
   /*padding-left: 15px;*/
   padding: 0px 0px 0px 15px;
