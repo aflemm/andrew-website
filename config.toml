@@ -85,7 +85,7 @@ enableGitInfo = true
   featured_image = "/images/header-summer.jpg"
   cover_dimming_class = "bg-black-10"
   
-  recent_posts_number = 2
+  recent_posts_number = 1
   
   env = "production"
 

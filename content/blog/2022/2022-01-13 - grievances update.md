@@ -9,7 +9,7 @@ typora-copy-images-to: ../../../static/images/blog/2022
 
 # Fun With Festivus Grievances
 
-I've been noodling on my app [Festivus Grievances](tk) in the evenings lately as a sort of relaxation/meditation. It's been super fun and I've made something I'm actually really quite proud of.
+I've been noodling on my app [Festivus Grievances](tk) lately as a sort of relaxation/meditation exercise. It's been super fun and I've made something I'm actually really quite proud of.
 
 Some back-story: the function of the app is to log the things that make you mad at everyone in your life all year, so you can air your grievances at Festivus Dinner on December 23.
 
