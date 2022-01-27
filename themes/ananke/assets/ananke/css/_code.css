@@ -49,6 +49,7 @@ a.footnote-ref::after {
     content: ']';
 }
 */
+
 .footnotes p {
   font-style: italic;
   margin: 0;

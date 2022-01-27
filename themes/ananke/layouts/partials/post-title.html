@@ -9,7 +9,7 @@ Article posts
 
 -->
 {{ if (eq .Params.postType "quote")}}
-	<a href="{{ .Params.sourceURL }}" class="color-inherit dim link">
+	<a href="{{ .Params.sourceURL }}" class="i color-inherit dim link">
 	  ⤻ {{ .Title }}︎︎ 
 	</a>
 	<!--♐-->
@@ -23,6 +23,7 @@ Article posts
       {{ else }}
       ⎀ 
       {{ end }}
+      
       {{ .Title }}
 	</a>
 {{ end }}
