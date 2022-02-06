@@ -48,8 +48,9 @@ To try the beta, download the app from the verison links below ⬇️
 -->
 {{< /rawhtml >}}
 
+ℹ️ I really like **[Control+Option+Command+Space]** as a keyboard shortcut to hide/show Sheet
 
-ℹ️ Hot tip: you can have macOS launch Sheet at login in System Preferences, under Users & Groups:
+ℹ️ You can have macOS launch Sheet at login in System Preferences, under Users & Groups:
 {{< rawhtml >}}
 
 <div style="display: flex; flex-wrap: wrap; align-items:center">
