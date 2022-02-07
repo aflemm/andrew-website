@@ -18,7 +18,7 @@ My first Mac App! Sheet is a menubar app for macOS that provides an always-avail
 {{< rawhtml >}}
 
 <div style="display: flex; flex-wrap: wrap; align-items:center">
-	
+
 	<img src="/images/projects/sheet/sheet-screenshot-prefs-crop.png" alt="Sheet screenshot" style="margin-left: auto; margin-right: auto; margin-bottom: 1em;">
 
 </div>
@@ -55,7 +55,7 @@ To try the beta, download the app from the verison links below ⬇️
 
 <div style="display: flex; flex-wrap: wrap; align-items:center">
 
-	
+​	
 	<img src="/images/projects/sheet/sheet-open-at-login.png" alt="Sheet screenshot" style="margin-left: auto; margin-right: auto; margin-bottom: 1em;">
 
 
@@ -64,12 +64,11 @@ To try the beta, download the app from the verison links below ⬇️
 
 {{< /rawhtml >}}
 
-
 # Version History
 
 ---
 
-## [2022.0 b4](https://andrewflemming.net/distribution/sheet-2020.0.b4.zip) {#2022-0-b4}
+## [2022.0 b5](https://andrewflemming.net/distribution/sheet-2020.0.b5.zip) {#2022-0-b5}
 
 ### Some specific items I'm looking for feedback on:
 
