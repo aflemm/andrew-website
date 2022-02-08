@@ -13,7 +13,7 @@ typora-copy-images-to: ../../../static/images/projects/sheet
 <img src="/images/projects/sheet/sheet-icon.png" alt="Sheet icon" width="120" height="120" class="center">
 {{< /rawhtml >}}
 
-My first Mac App! Sheet is a menubar app for macOS that provides an always-available spot to type or paste some text. It supports global keyboard shortcuts (customizable to anything you'd like).
+Sheet is a menubar app for macOS that provides an always-available spot to type or paste some text. It supports global keyboard shortcuts (customizable to anything you'd like).
 
 {{< rawhtml >}}
 
@@ -27,7 +27,8 @@ My first Mac App! Sheet is a menubar app for macOS that provides an always-avail
 
 For as simple as it is, Sheet has a few tricks up its sleeve:
 - Maintains a log of your history, so you can recover discarded sheets
-- Can export the current sheet, and entire history to iCloud drive
+- Syncs all data to iCloud
+- Exports the current sheet, and entire history to iCloud drive
 - Keyboard shortcuts for most evey action
 - Customizable:
 	- Window size
@@ -36,7 +37,7 @@ For as simple as it is, Sheet has a few tricks up its sleeve:
 	- Font style
 	- Keyboard shortcuts
 
-To try the beta, download the app from the verison links below ⬇️
+To try the beta, download the app from the version links below ⬇️
 
 {{< rawhtml >}}
 
@@ -54,30 +55,26 @@ To try the beta, download the app from the verison links below ⬇️
 {{< rawhtml >}}
 
 <div style="display: flex; flex-wrap: wrap; align-items:center">
-
-​	
-	<img src="/images/projects/sheet/sheet-open-at-login.png" alt="Sheet screenshot" style="margin-left: auto; margin-right: auto; margin-bottom: 1em;">
-
-
-​	
+<img src="/images/projects/sheet/sheet-open-at-login.png" alt="Sheet screenshot" style="margin-left: auto; margin-right: auto; margin-bottom: 1em;">
 </div>
 
 {{< /rawhtml >}}
+
+## Keyboard Shortcuts
+
+| Shortcut | Command               |
+| -------- | --------------------- |
+| ⌘N       | New                   |
+| ⇧⌘T      | Show/Hide Toolbar     |
+| ⌘ ,      | Show/Hide Preferences |
+| ...      | ...                   |
+
+
 
 # Version History
 
 ---
 
-## [2022.0 b5](https://andrewflemming.net/distribution/sheet-2020.0.b5.zip) {#2022-0-b5}
+## [2022.0 b6](https://andrewflemming.net/distribution/sheet-mac-2020.0-b6.zip) {#2022-0-b6}
 
-### Some specific items I'm looking for feedback on:
-
-- Windows size
-	- Comments on the three options
-	- Comments on the selection of 'medium' as default
-- Font size and style
-	- Comments on the options
-	- Comments on the default monospace
-- Toolbar visibility
-	- Currently hidden by default, thoughts on that choice?
-- Menubar icon
+First beta
