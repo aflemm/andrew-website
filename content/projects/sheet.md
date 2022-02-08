@@ -75,6 +75,6 @@ To try the beta, download the app from the version links below ⬇️
 
 ---
 
-## [2022.0 b6](https://andrewflemming.net/distribution/sheet-mac-2020.0-b6.zip) {#2022-0-b6}
+## [2022.0 b7](https://andrewflemming.net/distribution/sheet-mac-2020.0-b7.zip) {#2022-0-b7}
 
 First beta
