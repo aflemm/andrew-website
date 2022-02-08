@@ -28,7 +28,7 @@ Sheet is a menubar app for macOS that provides an always-available spot to type 
 For as simple as it is, Sheet has a few tricks up its sleeve:
 - Maintains a log of your history, so you can recover discarded sheets
 - Syncs all data to iCloud
-- Exports the current sheet, and entire history to iCloud drive
+- Exports the current sheet, or entire history to text files
 - Keyboard shortcuts for most evey action
 - Customizable:
 	- Window size
@@ -75,6 +75,6 @@ To try the beta, download the app from the version links below ⬇️
 
 ---
 
-## [2022.0 b7](https://andrewflemming.net/distribution/sheet-mac-2020.0-b7.zip) {#2022-0-b7}
+## [2022.0 b8](https://andrewflemming.net/distribution/sheet-mac-2020.0-b8.zip) {#2022-0-b8}
 
 First beta
