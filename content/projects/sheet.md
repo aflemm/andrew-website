@@ -128,7 +128,7 @@ In the preferences window you can also assign custom global keyboard shortcuts t
 
 ---
 
-## 2022.0 (11) {#macos-2022-0-b11}
+## 2022.0 (12) {#macos-2022-0-b12}
 
 First public beta
 
@@ -136,6 +136,6 @@ First public beta
 
 ---
 
-## 2022.0 (6) {#macos-2022-0-b6}
+## 2022.0 (7) {#ios-2022-0-b7}
 
 First public beta
