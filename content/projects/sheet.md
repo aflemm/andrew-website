@@ -5,8 +5,7 @@ draft: false
 omit_header_text: true
 type: "page"
 
-
-typora-copy-images-to: ../../../static/images/projects/sheet
+typora-copy-images-to: ../../static/images/projects/sheet
 typora-root-url: ../../static
 ---
 
@@ -33,11 +32,11 @@ Try out Sheet by joining the public beta:
 
 # More Features
 
-- Maintains a log of your history, so you can recover discarded sheets
+- Maintains a searchable history, so you can recover discarded sheets
 - Syncs history to iCloud, which can be viewed and copied by the companion iOS app
 - Exports the current sheet, or entire history to text files
 - Keyboard shortcuts for most evey action
-- Applescript automations
+- AppleScript automations
 - Customizable:
     - Window size
     - Window behaviour
@@ -52,7 +51,8 @@ Try out Sheet by joining the public beta:
 - Create a new sheet 
 	- Toolbar 'new sheet' button
 	- ⌘N keyboard shortcut
-	- Custom global keyboard shortcuts
+	- Custom global keyboard shortcuts for new-blank and new-with-clipboard
+	- Applescript NewText command
 - Restore an item from history
 - Select-all + delete all of the current text
 
@@ -64,8 +64,6 @@ Try out Sheet by joining the public beta:
 - Delete the current text one character at a time (i.e. holding down delete key)
 - Select-all + paste over the current text
 	- (I'd like to change this behaviour in the future, but this is how it currently stands)
-
-ℹ️ I really like [**Control+Option+Command+Space**] as a keyboard shortcut to hide/show Sheet. Just mash all the modifiers and hit space, boom! Sheet.
 
 ℹ️ By default the toolbar is hidden, providing the 'don't think about it' vibe that Sheet is going for, but enabling the toolbar will surface some secret powers. Also, all of the keyboard shortcuts for the toolbar buttons still work while it is hidden.
 
@@ -88,28 +86,42 @@ Try out Sheet by joining the public beta:
 
 ## Keyboard Shortcuts
 
-|      |                                                              |
-| ---: | ------------------------------------------------------------ |
-|   ⌘N | → New blank sheet (any existing content is saved to history) |
-|   ⌘S | → Save current sheet as a text file                          |
-|   ⌘⌫ | → Delete current sheet (content **not** saved to history)    |
-|  ⇧⌘T | → Show/Hide Toolbar                                          |
-|  ⌘ , | → Show/Hide Preferences                                      |
-|   ⌘Y | → Show/Hide History                                          |
-|   ⌘[ | → Back (to older item in history)                            |
-|   ⌘] | → Forward (to newer item in history)                         |
-|   ⌘1 | → Small window size                                          |
-|   ⌘2 | → Medium window size                                         |
-|   ⌘3 | → Large window size                                          |
-|   ⌘H | → Hide Sheet window                                          |
-|  ⇧⌘H | → Toggle 'remain on top' behaviour                           |
-|   ⌘Q | → Quit Sheet                                                 |
+| Shortcut | Command                                                    |
+| -------: | :--------------------------------------------------------- |
+|       ⌘N | New blank sheet (any existing content is saved to history) |
+|       ⌘S | Save current sheet as a text file                          |
+|       ⌘⌫ | Delete current sheet (content **not** saved to history)    |
+|      ⇧⌘T | Show/Hide Toolbar                                          |
+|      ⌘ , | Show/Hide Preferences                                      |
+|       ⌘Y | Show/Hide History                                          |
+|       ⌘[ | Back (to older item in history)                            |
+|       ⌘] | Forward (to newer item in history)                         |
+|       ⌘1 | Small window size                                          |
+|       ⌘2 | Medium window size                                         |
+|       ⌘3 | Large window size                                          |
+|       ⌘H | Hide Sheet window                                          |
+|      ⇧⌘H | Toggle 'remain on top' behaviour                           |
+|       ⌘Q | Quit Sheet                                                 |
 
-In the preferences window you can also assign custom global keyboard shortcuts to
+In the preferences window you can also assign custom global keyboard shortcuts to:
 
-- Hide/Show Sheet
-- Show Sheet with a new blank window
-- Show Sheet with the current contents of your clipboard
+- Hide/Show Sheet (I use ^⌥⌘␣)
+- Show Sheet with a new blank window (I use ^⌥⌘N)
+- Show Sheet with the current contents of your clipboard (I use ^⌥⌘V)
+
+(I like `Control+Option+Command` for global custom keyboard shortcuts — there's not much though required. Just mash all the modifiers)
+
+# AppleScript
+
+| Command          | Parameters    | Result                                                       |
+| :--------------- | :------------ | :----------------------------------------------------------- |
+| ToggleVisibility | ——            | Hides/Shows the Sheet window                                 |
+| Show             | ——            | Shows the Sheet window                                       |
+| Hide             | ——            | Hides the Sheet window                                       |
+| GetText          | ——            | Returns the current content of the Sheet window              |
+| NewText          | with "String" | Saves any current content to the history, populates Sheet with the passed string. (String must be present, but **can** be empty) |
+
+![Sheet Applescript Example](/images/projects/sheet/sheet-applescript-example.png)
 
 # macOS Version History
 

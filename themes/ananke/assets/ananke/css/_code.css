@@ -50,6 +50,17 @@ a.footnote-ref::after {
 }
 */
 
+table, th, td {
+	vertical-align: top;
+	border-collapse: collapse;
+	border: 1px solid grey;
+	padding: 10px;
+}
+
+table {
+	width: 100%;
+}
+
 .footnotes p {
   font-style: italic;
   margin: 0;
