@@ -90,6 +90,7 @@ Sheet is a little app for macOS that lives in your menu bar, and provides an alw
 | -------: | :--------------------------------------------------------- |
 |       ⌘N | New blank sheet (any existing content is saved to history) |
 |       ⌘S | Save current sheet as a text file                          |
+|      ⇧⌘C | Copy current sheet to clipboard                            |
 |       ⌘⌫ | Delete current sheet (content **not** saved to history)    |
 |      ⇧⌘T | Show/Hide Toolbar                                          |
 |      ⌘ , | Show/Hide Preferences                                      |
