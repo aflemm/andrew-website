@@ -21,7 +21,7 @@ Sheet is a little app for macOS that lives in your menu bar, and provides an alw
 
 {{< /rawhtml >}}
 
-Try out Sheet by joining the public beta:
+[Try out Sheet by joining the public beta](https://testflight.apple.com/join/YxROrjRM)
 
 {{< rawhtml >}}
 
@@ -138,4 +138,3 @@ First public beta
 ## 2022.0 (6) {#macos-2022-0-b6}
 
 First public beta
-
