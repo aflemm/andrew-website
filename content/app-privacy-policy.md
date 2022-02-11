@@ -7,7 +7,7 @@ draft: false
 type: 'page'
 ---
 
-This policy applies to all information collected or submitted in my various apps for iPhone, iPad, Apple TV, and Apple Watch.
+This policy applies to all information collected or submitted in my various apps for iPhone, iPad, Mac, Apple TV, and Apple Watch.
 
 # Information Collected
 I do not collect any user data, and none of your data is visible to me in any way.
@@ -23,5 +23,9 @@ I may disclose user information in response to subpoenas, court orders, or other
 In the future, I may sell to, buy, merge with, or partner with other businesses. In such transactions, user information may be among the transferred assets.
 
 # Changes to this policy
-If I decide to change our privacy policy, we will post those changes on this page. Summary of changes so far:
-- February 9, 2020: First published.
+If I decide to change our privacy policy, I will post those changes on this page. 
+
+Summary of changes so far:
+
+- February 9, 2020: First published
+- February 11, 2022: Added 'Mac' to the list of platforms covered by this policy

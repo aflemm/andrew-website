@@ -1,13 +1,11 @@
 ---
 title: "Fun With Festivus Grievances"
-date: 2022-01-xx
+date: 2022-02-01
 type: "post"
 draft: true
 typora-root-url: ../../../static
 typora-copy-images-to: ../../../static/images/blog/2022
 ---
-
-# Fun With Festivus Grievances
 
 I've been noodling on my app [Festivus Grievances](tk) lately as a sort of relaxation/meditation exercise. It's been super fun and I've made something I'm actually really quite proud of.
 
