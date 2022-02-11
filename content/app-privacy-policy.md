@@ -25,7 +25,8 @@ In the future, I may sell to, buy, merge with, or partner with other businesses.
 # Changes to this policy
 If I decide to change our privacy policy, I will post those changes on this page. 
 
-Summary of changes so far:
+### February 9, 2020
+- First published
 
-- February 9, 2020: First published
-- February 11, 2022: Added 'Mac' to the list of platforms covered by this policy
+### February 11, 2022
+- Added 'Mac' to the list of platforms covered by this policy
