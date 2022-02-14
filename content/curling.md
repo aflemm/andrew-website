@@ -41,4 +41,4 @@ More for my own memory than anything else, here is a timeline of some of my curl
 👍 Tried curling again, stuck with it this time
 
 # 1997
-👎 Tried curling, hated it, and quit
+👎 Tried curling, hated it, quit
