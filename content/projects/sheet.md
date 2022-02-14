@@ -30,7 +30,7 @@ Sheet is a little app for macOS that lives in your menu bar, and provides an alw
 
 {{< /rawhtml >}}
 
-# More Features
+# Features
 
 - Maintains a searchable history, so you can recover discarded sheets
 - Syncs history to iCloud, which can be viewed and copied by the companion iOS app
@@ -65,7 +65,7 @@ Sheet is a little app for macOS that lives in your menu bar, and provides an alw
 - Select-all + paste over the current text
 	- (I'd like to change this behaviour in the future, but this is how it currently stands)
 
-ℹ️ By default the toolbar is hidden, providing the 'don't think about it' vibe that Sheet is going for, but enabling the toolbar will surface some secret powers. Also, all of the keyboard shortcuts for the toolbar buttons still work while it is hidden.
+ℹ️ By default the toolbar is hidden, providing the 'don't think about it' vibe that Sheet is going for, but enabling the toolbar will surface some secret powers. (Hint: all of the keyboard shortcuts for the toolbar buttons still work while it is hidden)
 
 {{< rawhtml >}}
 
@@ -110,7 +110,7 @@ In the preferences window you can also assign custom global keyboard shortcuts t
 - Show Sheet with a new blank window (I use ^⌥⌘N)
 - Show Sheet with the current contents of your clipboard (I use ^⌥⌘V)
 
-(I like `Control+Option+Command` for global custom keyboard shortcuts — there's not much though required. Just mash all the modifiers)
+(I like `Control+Option+Command` for global custom keyboard shortcuts — there's not much thought required. Just mash all the modifiers)
 
 # AppleScript
 
