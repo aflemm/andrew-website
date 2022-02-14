@@ -9,11 +9,12 @@ typora-root-url: ../static
 
 I've been curling as long as I can remember. While my
 [sister](https://twitter.com/margotflemming)
-[is](https://athletics.uwaterloo.ca/news/2021/2/24/womens-curling-womens-curler-margot-flemming-competing-with-nwt-at-scotties.aspx)
+[is](https://en.wikipedia.org/wiki/Margot_Flemming)
 [the](https://www.curling.ca/blog/2021/09/23/rise-of-the-north/)
 [competitive](https://www.curling.ca/blog/2021/09/24/a-big-step-closer/)
 [curler](https://www.nnsl.com/sports/team-nwt-wins-national-mixed-curling-bronze/)
-of the [family](https://www.thestar.com/sports/amateur/2009/03/28/kitchenerwaterloo_wins_ontario_boys_curling_title.html), and much of my involvement with the sport is now [behind the scenes]({{< ref "projects" >}}), it remains a lifelong passion of mine.
+[of](https://athletics.uwaterloo.ca/news/2021/2/24/womens-curling-womens-curler-margot-flemming-competing-with-nwt-at-scotties.aspx)
+[the](https://www.curling.ca/blog/2022/02/01/race-to-the-playoffs/) [family](https://www.thestar.com/sports/amateur/2009/03/28/kitchenerwaterloo_wins_ontario_boys_curling_title.html), and much of my involvement with the sport is now [behind the scenes]({{< ref "projects" >}}), it remains a lifelong passion of mine.
 
 ![andrew flemming curling delivery](/images/pages/curling-delivery-behind.jpg)
 
