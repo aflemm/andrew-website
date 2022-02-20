@@ -13,7 +13,7 @@ typora-root-url: ../../static
 <img src="/images/projects/sheet/sheet-icon.png" alt="Sheet icon" width="120" height="120" class="center">
 {{< /rawhtml >}}
 
-Sheet is a little app for macOS that lives in your Mac’s menu bar, and provides an always-available place to type or paste some text. It supports global keyboard shortcuts, and maintains an iCloud-synced history.
+Sheet is a little app for macOS that lives in your menu bar, and provides an always-available place to type or paste some text. It supports global keyboard shortcuts, and maintains an iCloud-synced history.
 
 {{< rawhtml >}}
 
