@@ -13,7 +13,7 @@ typora-root-url: ../../static
 <img src="/images/projects/sheet/sheet-icon.png" alt="Sheet icon" width="120" height="120" class="center">
 {{< /rawhtml >}}
 
-Sheet is a little app for macOS that lives in your menu bar, and provides an always-available place to type or paste some text. It supports global keyboard shortcuts, and maintains an iCloud-synced history.
+Sheet is a little app for macOS that lives in your Mac’s menu bar, and provides an always-available place to type or paste some text. It supports global keyboard shortcuts, and maintains an iCloud-synced history.
 
 {{< rawhtml >}}
 
@@ -92,6 +92,7 @@ Sheet is a little app for macOS that lives in your menu bar, and provides an alw
 |       ⌘S | Save current sheet as a text file                          |
 |      ⇧⌘C | Copy current sheet to clipboard                            |
 |       ⌘⌫ | Delete current sheet (content **not** saved to history)    |
+|       ⌘/ | Pin/Un-pin current sheet                                          |
 |      ⇧⌘T | Show/Hide Toolbar                                          |
 |      ⌘ , | Show/Hide Preferences                                      |
 |       ⌘Y | Show/Hide History                                          |
@@ -109,6 +110,7 @@ In the preferences window you can also assign custom global keyboard shortcuts t
 - Hide/Show Sheet (I use ^⌥⌘␣)
 - Show Sheet with a new blank window (I use ^⌥⌘N)
 - Show Sheet with the current contents of your clipboard (I use ^⌥⌘V)
+- Show pinned sheet (I use ^⌥⌘/)
 
 (I like `Control+Option+Command` for global custom keyboard shortcuts — there's not much thought required. Just mash all the modifiers)
 
@@ -128,6 +130,10 @@ In the preferences window you can also assign custom global keyboard shortcuts t
 
 ---
 
+## 2022.0 (13) {#macos-2022-0-b13}
+- Added ‘pinned’ sheet. Quick access to a frequently used sheet (like a to-do list).
+- New global keyboard shortcut to show the pinned sheet.
+
 ## 2022.0 (12) {#macos-2022-0-b12}
 
 First public beta
@@ -139,3 +145,6 @@ First public beta
 ## 2022.0 (7) {#ios-2022-0-b7}
 
 First public beta
+- View your Sheet history
+- Copy a sheet to your clipboard
+- Paste current clipboard as a new history item
