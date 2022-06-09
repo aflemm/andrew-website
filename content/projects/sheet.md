@@ -129,6 +129,8 @@ In the preferences window you can also assign custom global keyboard shortcuts t
 # macOS Version History
 
 ---
+## 2022.0 (14) {#macos-2022-0-b14}
+- Incremented build number
 
 ## 2022.0 (13) {#macos-2022-0-b13}
 - Added ‘pinned’ sheet. Quick access to a frequently used sheet (like a to-do list).
@@ -136,7 +138,7 @@ In the preferences window you can also assign custom global keyboard shortcuts t
 
 ## 2022.0 (12) {#macos-2022-0-b12}
 
-First public beta
+First public beta 😊
 
 # iOS Version History
 
@@ -144,7 +146,7 @@ First public beta
 
 ## 2022.0 (7) {#ios-2022-0-b7}
 
-First public beta
+First public beta 😊
 - View your Sheet history
 - Copy a sheet to your clipboard
 - Paste current clipboard as a new history item
