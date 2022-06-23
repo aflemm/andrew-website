@@ -22,6 +22,6 @@ Learn about some of my past and current [ projects]({{< ref "projects" >}}) 💡
 ✉️ [Email me](mailto:contact@andrewflemming.net)  
 💼 [Work with me](https://www.linkedin.com/in/andrew-flemming/)
 
-### Latest Blog Post ⤵&#xFE0E;
+### Latest [Blog]({{< ref "blog" >}}) Post ⤵&#xFE0E;
 
 ---
