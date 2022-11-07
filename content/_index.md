@@ -18,8 +18,9 @@ I'm Andrew — a
 Learn about some of my past and current [ projects]({{< ref "projects" >}}) 💡.
 
 ### Want to get in touch?
-🐦 [@ me](http://twitter.com/aflemm) \
-✉️ [Email me](mailto:contact@andrewflemming.net)  
+🐦 [Tweet me](https://twitter.com/aflemm) \
+🐘 [Toot me](https://mastodon.social/@aflemm) 
+✉️ [Email me](mailto:contact@andrewflemming.net) 
 💼 [Work with me](https://www.linkedin.com/in/andrew-flemming/)
 
 ### Latest [Blog]({{< ref "blog" >}}) Post ⤵&#xFE0E;
