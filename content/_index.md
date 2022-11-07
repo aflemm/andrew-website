@@ -19,7 +19,9 @@ Learn about some of my past and current [ projects]({{< ref "projects" >}}) 💡
 
 ### Want to get in touch?
 🐦 [Tweet me](https://twitter.com/aflemm) \
-🐘 [Toot me](https://mastodon.social/@aflemm) \
+🐘 {{< rawhtml >}}
+<a rel="me" href="https://mastodon.social/@aflemm">Toot me</a>
+{{< /rawhtml >}} \
 ✉️ [Email me](mailto:contact@andrewflemming.net) \
 💼 [Work with me](https://www.linkedin.com/in/andrew-flemming/)
 
