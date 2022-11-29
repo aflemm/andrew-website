@@ -18,12 +18,18 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/andrew-flemming/)
 
 # Turntide Technologies [⤻](http://turntide.com)
 
-A rapidly growing company, developing electrification systems for buildings, agriculture, and transport. I currently lead the motor mechanical design team, developing high efficiency industrial motors.
+Developing electrification systems for buildings, agriculture, and transport. I am currently the product manager for our platform of electric motors targeting energy saving upgrades of industrial equipment.
+
+{{< resume-role	
+	title="Product Manager, Electric Motors"
+	start="2022"
+	end="Present"
+>}}
 
 {{< resume-role	
 	title="Manager, Electric Motor Design"
 	start="2021"
-	end="Present"
+	end="2022"
 >}}
 
 {{< resume-role	
@@ -36,7 +42,7 @@ A rapidly growing company, developing electrification systems for buildings, agr
 
 # Accelerated Systems Inc. [⤻︎](http://acceleratedsystems.com)
 
-Develops components and systems for light electric vehicles. During my time with ASi, I designed products for the eBike industry and systems for battery-electric riding lawnmowers; managed customer relationships during development projects; and ultimately lead the Engineering team.
+Developed components and systems for light electric vehicles. During my time with ASi, I designed products for the eBike industry and systems for battery-electric riding lawnmowers; managed customer relationships during development projects; and ultimately lead the Engineering team.
 
 <!--#### Vice President, Technology #### -->
 
