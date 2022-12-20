@@ -92,7 +92,7 @@ Sheet is a little app for macOS that lives in your menu bar, and provides an alw
 |       ⌘S | Save current sheet as a text file                          |
 |      ⇧⌘C | Copy current sheet to clipboard                            |
 |       ⌘⌫ | Delete current sheet (content **not** saved to history)    |
-|       ⌘/ | Pin/Un-pin current sheet                                          |
+|       ⌘/ | Pin/Un-pin current sheet                                   |
 |      ⇧⌘T | Show/Hide Toolbar                                          |
 |      ⌘ , | Show/Hide Preferences                                      |
 |       ⌘Y | Show/Hide History                                          |
@@ -129,6 +129,9 @@ In the preferences window you can also assign custom global keyboard shortcuts t
 # macOS Version History
 
 ---
+## 2022.0 (16) {#macos-2022-0-b16}
+- Added an icon to the top right of the pinned sheet
+
 ## 2022.0 (14) {#macos-2022-0-b14}
 - Incremented build number
 
