@@ -7,4 +7,4 @@ draft: false
 type: 'page'
 ---
 
-Contact me at support@aflemm.com
+Email me at support@aflemm.com
