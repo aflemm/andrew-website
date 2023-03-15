@@ -7,8 +7,10 @@ type: "page"
 typora-root-url: ../static
 ---
 
-[Take the survey](https://forms.gle/4nTvKAe73Uj5W9Ze7)
+This survey is about how coaches are using software tools to help track games and player performance, and using that data to help their team improve.
+
+If you are a curling coach, I'd love to hear from you.
 
 {{< rawhtml >}}
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdB741uLXn8_ZBDycsznSjFGL3uUowUGhWtdPRw03KtaiZ0Ng/viewform?embedded=true" width="640" height="2681" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdB741uLXn8_ZBDycsznSjFGL3uUowUGhWtdPRw03KtaiZ0Ng/viewform?embedded=true" width="100%" height="5000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 {{< /rawhtml >}}
