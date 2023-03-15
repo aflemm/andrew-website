@@ -7,7 +7,7 @@ type: "page"
 typora-root-url: ../static
 ---
 
-If you are a curling coach, I'd love to learn about how you are using software tools to help track games and player performance, and how you are using that data to help your team improve.
+If you are a curling coach, I'd love to learn about how you are using tools to help track games and player performance, and how you are using that data to help your team improve.
 
 If you know other coaches who may be interested in taking the survey, please share this link with them too.
 
