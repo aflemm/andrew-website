@@ -13,7 +13,7 @@ I'm Andrew Flemming - brother of noted northern curler Margot Flemming. In 2009 
 
 ## What are we doing?
 
-Well, time marches ever forth, and whatever flame it was that compelled me to create CurlBook in the first place remains. I want to create a product for curling coaches, one that derives insights from data collected during games, and helps inform how they help their team develop between games. CurlBook: The Next Generation, if you will. I believe that I can make something amazing for curling teams.
+Well, time marches ever forth, and whatever flame it was that compelled me to create CurlBook in the first place remains ablaze. I want to create a product for curling coaches, one that derives insights from data collected during games, and helps inform how they help their team develop between games. CurlBook: The Next Generation, if you will. I believe that I can make something amazing for curling teams.
 
 Given the lessons learned with the previous iteration, as well as my now 15 years of product development experience, this is not an endeavour to take on lightly. For me to bring this product to life, two conditions need to be met:
 
@@ -28,7 +28,8 @@ The survey below is the start of what I would like to be a long journey. If you 
 
 ## The Survey
 
-If the survey is not loading, try [this link](https://docs.google.com/forms/d/e/1FAIpQLSdB741uLXn8_ZBDycsznSjFGL3uUowUGhWtdPRw03KtaiZ0Ng/viewform?usp=sf_link) directly to the google form.
+If you have any trouble with the survey, try [this link](https://docs.google.com/forms/d/e/1FAIpQLSdB741uLXn8_ZBDycsznSjFGL3uUowUGhWtdPRw03KtaiZ0Ng/viewform?usp=sf_link) directly to the google form.
+
 If you know other coaches who may be interested in taking the survey, please share this link with them too.
 
 If you have any questions, or want to chat in more detail, my email address is [contact@andrewflemming.net](mailto:contact@andrewflemming.net). I'd love to hear from you.
