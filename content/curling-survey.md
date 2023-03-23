@@ -26,7 +26,7 @@ To be viable means that it needs to put food on my table. What ultimately doomed
 
 The survey below is the start of what I would like to be a long journey. If you are a curling coach, my first step is to understand you - what you are doing today, what you need from your coaching software. I'd love to learn about how you are currently using (or not using) tools to help track games and player performance, and how you are using that data to help your team improve.
 
-## The Survey itself
+## The Survey
 
 If the survey is not loading, try [this link](https://docs.google.com/forms/d/e/1FAIpQLSdB741uLXn8_ZBDycsznSjFGL3uUowUGhWtdPRw03KtaiZ0Ng/viewform?usp=sf_link) directly to the google form.
 If you know other coaches who may be interested in taking the survey, please share this link with them too.
