@@ -22,9 +22,9 @@ Given the lessons learned with the previous iteration, as well as my now 15 year
 
 To be valuable means that it must tap into something new - do something in a way that is different/better than what is available today, to a degree that it's worth paying money for. I believe in creating products that people *choose* to use, and every time they interact with it they feel a little better about that choice. 
 
-To be viable means that it needs to put food on my table. What ultimately doomed my original app was that it could never be more than a side-project. I won't do that again. I know that if I am to ask coaches and teams to trust me with their data, and to play a role in helping their team, I need to be all-in. This product would need to be my job - because that's what it takes to provide regular updates, maintenance, and support for this type of product in the long run.
+To be viable means that it needs to valuable to enough people to put food on my table. What ultimately doomed my original app was that it could never be more than a side-project. I won't do that again. I know that if I am to ask coaches and teams to trust me with their data, to play a role in helping their team, I need to be all-in. This product needs to be my job - because that's what it takes to provide regular updates, maintenance, and support in the long run.
 
-The survey below is the start of what I would like to be a long journey. If you are a curling coach, my first step is to understand you - what you are doing today, what you need from your coaching software. I'd love to learn about how you are currently using (or not using) tools to help track games and player performance, and how you are using that data to help your team improve.
+The survey below is the start of what I hope will be a long journey. The first step is to explore what overlap exists between a valuable and viable product I can build in this space. That starts with you, the potential customers. What are you doing today, what do you need from your coaching software, what do you value? I'd love to learn about how you are currently using (or not using) tools to help track games and player performance today, and how you are using that data to help your team improve.
 
 ## The Survey
 
