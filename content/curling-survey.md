@@ -11,7 +11,7 @@ typora-root-url: ../static
 
 I'm Andrew Flemming - brother of noted northern curler Margot Flemming. In 2009 I combined my passions for curling and product development to create the first coaching stats tool for the iPhone, and later the iPad, called [CurlBook]({{< ref "curlbook" >}}). CurlBook was a labour of love, developed in the evenings and weekends while I began my career in a real jobby-job. I retired the app 10 years later, when the underpinnings became too old to keep it modern without a complete overhaul, which I could not afford to take on (CurlBook 1.0 was released for iPhoneOS 3.0, before the first iPad had even been announced).
 
-## What are we doing?
+## What am I doing?
 
 Well, time marches ever forth, and whatever flame it was that compelled me to create CurlBook in the first place remains ablaze. I want to create a product for curling coaches, one that derives insights from data collected during games, and helps inform how they help their team develop between games. CurlBook: The Next Generation, if you will. I believe that I can make something amazing for curling teams.
 
