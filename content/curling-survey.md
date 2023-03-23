@@ -16,11 +16,13 @@ Given the lessons learned with the previous iteration, as well as my now 15 year
 1. It needs to be valuable to coaches
 2. It needs to be viable for me
 
-To be valuable means that it must tap into something new - do something in a way that is different/better than what is available today, to a degree that it's worth paying money for. I believe in creating products that people *choose* to use, and every time they interact with it they feel a little better about that choice.
+To be valuable means that it must tap into something new - do something in a way that is different/better than what is available today, to a degree that it's worth paying money for. I believe in creating products that people *choose* to use, and every time they interact with it they feel a little better about that choice. 
 
-To be viable for me, it needs to put food on my table. What ultimately doomed my original app was that it could never be more than a side-project. I know that if I am to ask coaches and teams to trust me with their data, and to play a role in helping their team, then I need to be all-in. This product would need to be my job - because that's what it takes to update, maintain, and support software of the calibre I would set out to create.
+To be viable for me, it needs to put food on my table. What ultimately doomed my original app was that it could never be more than a side-project. I know that if I am to ask coaches and teams to trust me with their data, and to play a role in helping their team, then I need to be all-in. This product would need to be my job - because that's what it takes to update, maintain, and support software of the calibre I hope to create.
 
-The survey below is the first step on what I hope to be a long journey. If you are a curling coach, I'd love to learn about how you are currently using tools to help track games and player performance, and how you are using that data to help your team improve. If you know other coaches who may be interested in taking the survey, please share this link with them too.
+The survey below is the start of what I would like to be a long journey. If you are a curling coach, my first step is to understand you - what you are doing today, what you need from your coaching software. I'd love to learn about how you are currently using (or not using) tools to help track games and player performance, and how you are using that data to help your team improve.
+
+If you know other coaches who may be interested in taking the survey, please share this link with them too.
 
 If you have any questions, or want to chat in more detail, my email address is [contact@andrewflemming.net](mailto:contact@andrewflemming.net). I'd love to hear from you.
 
