@@ -9,15 +9,16 @@ typora-root-url: ../static
 
 Hi, I'm Andrew Flemming - brother of noted northern curler Margot Flemming. In 2009 I combined my passions for curling and product development to create the first coaching stats tool for the iPhone, and later the iPad, called CurlBook. CurlBook was a labour of love, developed in the evenings and weekends while I began my career in a real jobby-job. I retired the app 10 years later, when the underpinnings became too old to keep it modern without a complete overhaul, which I could not afford to take on (CurlBook 1.0 was released for iPhoneOS 3.0, before the first iPad had even been announced).
 
-Well, time marches ever forth, and whatever flame it was that compelled me to create CurlBook in the first place remains. I want to create a product for curling coaches, one that derives insights from data collected during games, and helps inform how they help their team develop between games. CurlBook: The Next Generation, if you will.
+Well, time marches ever forth, and whatever flame it was that compelled me to create CurlBook in the first place remains. I want to create a product for curling coaches, one that derives insights from data collected during games, and helps inform how they help their team develop between games. CurlBook: The Next Generation, if you will. I believe that I can make something amazing for curling teams.
 
-Now, given the lessons learned with the previous iteration, as well as my now 15 years of product development experience, this is not something I will take on lightly. For me to bring this product to life, two conditions need to be met:
+Given the lessons learned with the previous iteration, as well as my now 15 years of product development experience, this is not an endeavour to take on lightly. For me to bring this product to life, two conditions need to be met:
 
-### 1. It needs to be valuable to coaches
-To be valuable means that it must tap into something new - do something in a way that is different from other available tools, to a degree that it's worth paying money for. Unlike enterprise software, I believe in creating tools that people *choose* to use, and every time they interact with it they feel a little better about that choice.
+1. It needs to be valuable to coaches
+2. It needs to be viable for me
 
-### 2. It needs to be viable for me
-What ultimately doomed my original app was that it could never be more than a side-project. I know that if I am to ask coaches and teams to trust me with their data, and to play a role in helping their team, then I need to be all-in. This product would need to be my job - because that's what it takes to update, maintain, and support software of the calibre I would set out to create.
+To be valuable means that it must tap into something new - do something in a way that is different/better than what is available today, to a degree that it's worth paying money for. I believe in creating products that people *choose* to use, and every time they interact with it they feel a little better about that choice.
+
+To be viable for me, it needs to put food on my table. What ultimately doomed my original app was that it could never be more than a side-project. I know that if I am to ask coaches and teams to trust me with their data, and to play a role in helping their team, then I need to be all-in. This product would need to be my job - because that's what it takes to update, maintain, and support software of the calibre I would set out to create.
 
 The survey below is the first step on what I hope to be a long journey. If you are a curling coach, I'd love to learn about how you are currently using tools to help track games and player performance, and how you are using that data to help your team improve. If you know other coaches who may be interested in taking the survey, please share this link with them too.
 
