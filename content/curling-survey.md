@@ -19,7 +19,7 @@ I believe I can make something great.
 
 ## I'd like your help
 
-To discover whether I can create a product that is valuable for coaches while being viable for me to develop and support full time, I'd like to learn a little about you - a potential customer (someday). The survey below is the first step in this discovery process. I'm extremely grateful for you taking the time to help by providing your answers. 
+To discover whether I can create a product that is valuable for coaches while being viable for me to develop and support full time, I'd like to learn a little about you - a potential customer. The survey below is the first step in this discovery process. I'm extremely grateful for you taking the time to help by providing your answers. 
 
 ## The Survey
 
