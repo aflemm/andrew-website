@@ -18,12 +18,12 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/andrew-flemming/)
 
 # Turntide Technologies [⤻](http://turntide.com)
 
-Developing electrification systems for buildings, agriculture, and transport. I am currently the product manager for our platform of electric motors targeting energy saving upgrades of industrial equipment.
+Developed electrification systems for buildings, agriculture, and transport. I was the product manager for our platform of electric motors targeting energy saving upgrades of industrial equipment.
 
 {{< resume-role	
 	title="Product Manager, Electric Motors"
 	start="2022"
-	end="Present"
+	end="2024"
 >}}
 
 {{< resume-role	
