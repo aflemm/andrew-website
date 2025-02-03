@@ -2,162 +2,163 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://andrewflemming.net/projects/sheet/</loc>
+    <loc>http://localhost:1313/blog/2025/make-them-say-the-words/</loc>
+    <lastmod>2025-02-03T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/sheet/</loc>
     <lastmod>2022-12-20T11:23:50-05:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/blog/2022/human-composting/</loc>
+    <loc>http://localhost:1313/blog/2022/human-composting/</loc>
     <lastmod>2022-01-27T13:53:26-05:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/blog/2022/under-5/</loc>
+    <loc>http://localhost:1313/blog/2022/under-5/</loc>
     <lastmod>2022-01-27T13:53:26-05:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/blog/2021/bumper-sticker-design/</loc>
+    <loc>http://localhost:1313/blog/2021/bumper-sticker-design/</loc>
     <lastmod>2021-12-23T10:21:00-05:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/blog/2021/festivus-grievances-update/</loc>
+    <loc>http://localhost:1313/blog/2021/festivus-grievances-update/</loc>
     <lastmod>2022-01-18T22:51:02-05:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/blog/2021/excellent-but-limited-skillset/</loc>
+    <loc>http://localhost:1313/blog/2021/excellent-but-limited-skillset/</loc>
     <lastmod>2021-12-17T09:51:01-05:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/blog/2021/patriot/</loc>
+    <loc>http://localhost:1313/blog/2021/patriot/</loc>
     <lastmod>2022-01-20T10:31:48-05:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/blog/2018/paradise-provence/</loc>
+    <loc>http://localhost:1313/blog/2018/paradise-provence/</loc>
     <lastmod>2021-12-21T15:50:51-05:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2021-12-21T16:24:56-05:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/tags/video/</loc>
+    <loc>http://localhost:1313/tags/video/</loc>
     <lastmod>2021-12-21T16:24:56-05:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/tags/gallery/</loc>
+    <loc>http://localhost:1313/tags/gallery/</loc>
     <lastmod>2021-12-21T14:32:14-05:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/blog/2018/hilltop-town-in-france/</loc>
+    <loc>http://localhost:1313/blog/2018/hilltop-town-in-france/</loc>
     <lastmod>2021-12-14T11:11:45-05:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/blog/2018/subway-in-chicago/</loc>
+    <loc>http://localhost:1313/blog/2018/subway-in-chicago/</loc>
     <lastmod>2021-12-14T11:11:45-05:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/blog/2018/building-in-chicago/</loc>
+    <loc>http://localhost:1313/blog/2018/building-in-chicago/</loc>
     <lastmod>2021-12-14T11:11:45-05:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/blog/2018/brandon-in-portugal/</loc>
+    <loc>http://localhost:1313/blog/2018/brandon-in-portugal/</loc>
     <lastmod>2021-12-14T11:11:45-05:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/blog/2018/street-in-lisbon/</loc>
+    <loc>http://localhost:1313/blog/2018/street-in-lisbon/</loc>
     <lastmod>2021-12-14T11:11:45-05:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/blog/2018/winding-road-in-portugal/</loc>
+    <loc>http://localhost:1313/blog/2018/winding-road-in-portugal/</loc>
     <lastmod>2021-12-14T11:11:45-05:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/blog/2017/portugal-2017-part-two/</loc>
+    <loc>http://localhost:1313/blog/2017/portugal-2017-part-two/</loc>
     <lastmod>2021-12-21T16:24:56-05:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/blog/2017/little-house-on-a-hill-in-madeira/</loc>
+    <loc>http://localhost:1313/blog/2017/little-house-on-a-hill-in-madeira/</loc>
     <lastmod>2021-12-21T14:32:14-05:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/blog/2017/portugal-2017-part-one/</loc>
+    <loc>http://localhost:1313/blog/2017/portugal-2017-part-one/</loc>
     <lastmod>2021-12-21T15:50:51-05:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/blog/2017/fisherman-in-portugal/</loc>
+    <loc>http://localhost:1313/blog/2017/fisherman-in-portugal/</loc>
     <lastmod>2021-12-14T11:11:45-05:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/blog/2017/hills-in-portugal/</loc>
+    <loc>http://localhost:1313/blog/2017/hills-in-portugal/</loc>
     <lastmod>2021-12-21T14:32:14-05:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/blog/2017/tree-in-waterloo/</loc>
+    <loc>http://localhost:1313/blog/2017/tree-in-waterloo/</loc>
     <lastmod>2021-12-14T11:11:45-05:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/blog/2016/whale-spout-in-bc/</loc>
+    <loc>http://localhost:1313/blog/2016/whale-spout-in-bc/</loc>
     <lastmod>2021-12-14T11:11:45-05:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/blog/2016/the-making-of-star-trek-the-next-generations-greatest-episode-the-inner-light/</loc>
+    <loc>http://localhost:1313/blog/2016/the-making-of-star-trek-the-next-generations-greatest-episode-the-inner-light/</loc>
     <lastmod>2021-12-15T10:53:45-05:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/blog/2016/little-boat-in-dongguan/</loc>
+    <loc>http://localhost:1313/blog/2016/little-boat-in-dongguan/</loc>
     <lastmod>2021-12-21T14:32:14-05:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/blog/2015/roger-ebert-on-lost-in-translation/</loc>
+    <loc>http://localhost:1313/blog/2015/roger-ebert-on-lost-in-translation/</loc>
     <lastmod>2021-12-15T10:53:45-05:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/blog/2015/whatever-happened-to-the-great-debates/</loc>
+    <loc>http://localhost:1313/blog/2015/whatever-happened-to-the-great-debates/</loc>
     <lastmod>2021-12-15T10:53:45-05:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/blog/2015/im-an-anti-braker/</loc>
+    <loc>http://localhost:1313/blog/2015/im-an-anti-braker/</loc>
     <lastmod>2021-12-15T10:53:45-05:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/blog/2015/sam-and-suzys-excellent-adventure/</loc>
+    <loc>http://localhost:1313/blog/2015/sam-and-suzys-excellent-adventure/</loc>
     <lastmod>2021-12-15T10:53:45-05:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/blog/2015/roger-ebert-on-james-bond/</loc>
+    <loc>http://localhost:1313/blog/2015/roger-ebert-on-james-bond/</loc>
     <lastmod>2021-12-15T10:53:45-05:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/blog/2015/the-worlds-end/</loc>
+    <loc>http://localhost:1313/blog/2015/the-worlds-end/</loc>
     <lastmod>2021-12-15T10:53:45-05:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/blog/2014/barbecue-meat-palace/</loc>
+    <loc>http://localhost:1313/blog/2014/barbecue-meat-palace/</loc>
     <lastmod>2021-12-14T11:11:45-05:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/blog/2014/unique/</loc>
+    <loc>http://localhost:1313/blog/2014/unique/</loc>
     <lastmod>2021-12-14T11:11:45-05:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/blog/2013/health-canada-misses-the-point/</loc>
+    <loc>http://localhost:1313/blog/2013/health-canada-misses-the-point/</loc>
     <lastmod>2021-12-15T10:53:45-05:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/blog/2012/homeopathy-awareness-week/</loc>
+    <loc>http://localhost:1313/blog/2012/homeopathy-awareness-week/</loc>
     <lastmod>2021-12-15T10:53:45-05:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/blog/2012/integrative-medicine-a-brand-not-a-specialty/</loc>
+    <loc>http://localhost:1313/blog/2012/integrative-medicine-a-brand-not-a-specialty/</loc>
     <lastmod>2021-12-15T10:53:45-05:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/blog/</loc>
+    <loc>http://localhost:1313/blog/</loc>
     <lastmod>2021-12-17T10:43:10-05:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/app-privacy-policy/</loc>
+    <loc>http://localhost:1313/app-privacy-policy/</loc>
     <lastmod>2022-02-11T13:34:08-05:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/app-support/</loc>
+    <loc>http://localhost:1313/app-support/</loc>
     <lastmod>2023-02-19T06:54:17-08:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/blog/archive/</loc>
+    <loc>http://localhost:1313/blog/archive/</loc>
     <lastmod>2021-12-17T10:33:43-05:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/career/</loc>
+    <loc>http://localhost:1313/career/</loc>
     <lastmod>2024-09-15T14:00:40-04:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://andrewflemming.net/projects/check/</loc>
+    <loc>http://localhost:1313/projects/check/</loc>
     <lastmod>2022-01-19T15:50:03-05:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/projects/curlbook/</loc>
-    <lastmod>2021-12-17T10:33:43-05:00</lastmod>
+    <loc>http://localhost:1313/projects/curlbook-classic/</loc>
   </url><url>
-    <loc>https://andrewflemming.net/curling/</loc>
+    <loc>http://localhost:1313/projects/curlbook-next/</loc>
+  </url><url>
+    <loc>http://localhost:1313/curling/</loc>
     <lastmod>2022-02-14T15:02:44-05:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/curling-survey/</loc>
-    <lastmod>2023-03-25T10:53:59-04:00</lastmod>
-  </url><url>
-    <loc>https://andrewflemming.net/projects/grievances/</loc>
+    <loc>http://localhost:1313/projects/grievances/</loc>
     <lastmod>2022-02-04T22:27:46-05:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2022-11-23T11:07:57-05:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/photography/</loc>
+    <loc>http://localhost:1313/photography/</loc>
     <lastmod>2022-01-19T10:28:27-05:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2022-09-19T19:28:09-04:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/projects/smartbroom/</loc>
+    <loc>http://localhost:1313/projects/smartbroom/</loc>
     <lastmod>2022-02-10T13:11:54-05:00</lastmod>
   </url><url>
-    <loc>https://andrewflemming.net/videos/</loc>
+    <loc>http://localhost:1313/videos/</loc>
     <lastmod>2021-12-14T11:11:45-05:00</lastmod>
   </url>
 </urlset>

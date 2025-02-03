@@ -11,6 +11,8 @@ type: 'page'
 
 The [SmartBroom]({{< ref "smartbroom" >}}) is a training tool used by high performance curlers to measure their sweeping effectiveness.
 
+[CurlBook](https://curlbook.ca) is powerful performance performance analytics software for curling teams
+
 [Festivus Grievances]({{< ref "grievances" >}}) is fun and silly iOS app for tracking grievances through the year.
 
 [Make the Final](https://makethefinal.ca) is a hilarious website dedicated to cataloging the ridiculous utterances of Vic Rauter.
@@ -18,6 +20,6 @@ The [SmartBroom]({{< ref "smartbroom" >}}) is a training tool used by high perfo
 [Sheet]({{< ref "sheet" >}}) is my first Mac app! It's a little home for snippets of text that lives in your menu bar.
 
 # Past Projects
-[CurlBook]({{< ref "curlbook" >}}) was an iOS app for curling coaches to track performance and game statistics for their teams.
+[CurlBook (classic)]({{< ref "curlbook-classic" >}}) was an iOS app for curling coaches to track performance and game statistics for their teams.
 
 [Check]({{< ref "check" >}}) was a beautiful lists app for iOS.

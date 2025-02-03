@@ -8,11 +8,23 @@ type: 'page'
 draft: false
 ---
 
-I am a Mechanical Engineer (P.Eng), with experience leading multi-disciplinary teams (mechanical, hardware, software) through product development and early volume manufacturing.
+I am a Mechanical Engineer (P.Eng), with experience leading multi-disciplinary teams (mechanical, hardware, software) through product development, launch, and volume manufacturing.
 
 I have a focus on electrification and sustainability, and love being part of a small team trying to do something new.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/andrew-flemming/)
+
+
+---
+# Flying Solo
+
+In 2024 I made the ... terrifying? electrifying? ... decision to leave the miserable comfort of a corporate salary behind and go all-in on my own [products]({{< ref "projects" >}}).
+
+{{< resume-role	
+	title="Independent Product Developer"
+	start="2024"
+	end="∞"
+>}}
 
 ---
 

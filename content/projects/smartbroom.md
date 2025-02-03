@@ -5,13 +5,10 @@ omit_header_text: true
 type: "page"
 draft: false
 ---
-![SmartBroom Icon](/images/projects/smartbroom-icon.png)
-
-The [SmartBroom](https://smartbroom.ca) — developed and sold by my company Canadian Curling Tools Ltd. — is a powerful tool for curlers interested in improving the effectiveness of their sweeping. It is used by national organizations and curling clubs around the world.
-
-My contributions to the product are the hardware design (i.e. electronics), the embedded firmware (on the SmartBroom itself) and the iOS app.
 
 ![SmartBroom hero image](/images/projects/smartbroom-hero.jpg)
+
+The [SmartBroom](https://smartbroom.ca) — developed and sold by my company Canadian Curling Tools Ltd. — is a world-class curling broom that tracks your sweeping performance. An integrated sensor array measures each stroke, providing curlers with the data they need to improve their sweeping.
 
 ![SmartBroom App image](/images/projects/smartbroom-app.png)
 

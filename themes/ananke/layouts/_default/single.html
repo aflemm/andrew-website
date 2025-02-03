@@ -47,24 +47,6 @@
     <div class="{{ $.Param "post_content_classes"  | default "nested-copy-line-height lh-copy"}}">
       {{- .Content -}}
       
-      <!--
-      <hr>
-      <p class="">Want to comment on this post?
-
-<a href="https://twitter.com/intent/tweet?screen_name=aflemm" class="twitter-mention-button" data-show-count="false">Tweet to @aflemm</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-      -->
-      
-      <!--
-      {{- partial "tags.html" . -}}
-      <div class="mt6 instapaper_ignoref">
-      {{ if .Site.DisqusShortname }}
-        {{ template "_internal/disqus.html" . }}
-      {{ end }}
-      {{ if .Site.Params.commentoEnable }}
-        {{- partial "commento.html" . -}}
-      {{ end }}
-      </div>
-      -->
     </div>
 <!-->
     <aside class="w-30-l mt6-l">
