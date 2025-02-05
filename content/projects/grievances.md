@@ -51,6 +51,14 @@ This is by far the most feature-rich and polished grievance tracking app for Fes
 
 ---
 
+## 2025.1 {#iOS-2025-1}
+
+*Released February, 2025*
+
+- Added a setting for the time of day to receive reminder notifications
+
+---
+
 ## 2022.4 {#iOS-2022-4}
 
 *Released February, 2022*
