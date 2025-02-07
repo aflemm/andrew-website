@@ -11,7 +11,7 @@ type: 'page'
 
 [CurlBook]({{< ref "curlbook" >}}) is powerful performance performance analytics software for curling teams
 
-The [SmartBroom]({{< ref "smartbroom" >}}) is a training tool used by high performance curlers to measure their sweeping effectiveness.
+[SmartBroom]({{< ref "smartbroom" >}}) is a training tool used by high performance curlers to measure their sweeping effectiveness.
 
 [Festivus Grievances]({{< ref "grievances" >}}) is fun and silly iOS app for tracking grievances through the year.
 
