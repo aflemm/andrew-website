@@ -12,8 +12,8 @@ draft: false
 I'm Andrew (he/him) — a 
 [curler]({{< ref "curling" >}}) 🥌, an
 [engineer]({{< ref "career" >}}) 👷‍♂, co-creator of the 
-[SmartBroom]({{< ref "SmartBroom" >}}) 🧹, and software developer for
-[iOS]({{< ref “curlbook” >}}) and [Mac]({{< ref "sheet" >}}) 👨‍💻, based in Kitchener-Waterloo 🇨🇦.
+[SmartBroom]({{< ref "smartbroom" >}}) 🧹, and software developer for
+[iOS]({{< ref "curlbook" >}}) and [Mac]({{< ref "sheet" >}}) 👨‍💻, based in Kitchener-Waterloo 🇨🇦.
 
 Learn about some of my past and current [ projects]({{< ref "projects" >}}) 💡.
 
